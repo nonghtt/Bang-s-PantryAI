@@ -44,5 +44,14 @@ htmlcov/
 # --- Claude Code (local-only settings; shared config stays tracked) ---
 .claude/settings.local.json
 
+# --- 개인 메모 (공개 레포에 노출하지 않음) ---
+docs/interview-notes.md
+
+# --- 수집한 원천 데이터 (공공 API에서 재생성 가능) ---
+data/raw/
+
+# --- 작업 중 스크린샷 ---
+제목 없음.png
+
 # --- BMAD (machine-local state; artifacts in _bmad-output stay tracked) ---
 _bmad/**/*.user.toml
