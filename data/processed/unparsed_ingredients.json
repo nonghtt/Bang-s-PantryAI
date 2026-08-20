@@ -1,0 +1,434 @@
+[
+ {
+  "source_id": "38",
+  "recipe_name": "표고버섯 청경채국",
+  "kind": "fragment",
+  "raw": "표고버섯 기둥"
+ },
+ {
+  "source_id": "642",
+  "recipe_name": "훈제오리가슴살크러스트",
+  "kind": "fragment",
+  "raw": "후춧가루(0.5g"
+ },
+ {
+  "source_id": "645",
+  "recipe_name": "겨자소스로 구운 산마샐러드",
+  "kind": "fragment",
+  "raw": "겨자가루(10g)."
+ },
+ {
+  "source_id": "276",
+  "recipe_name": "맑은부대찌개",
+  "kind": "fragment",
+  "raw": "소금(0.1g"
+ },
+ {
+  "source_id": "336",
+  "recipe_name": "묵계밥",
+  "kind": "fragment",
+  "raw": "도토리묵"
+ },
+ {
+  "source_id": "336",
+  "recipe_name": "묵계밥",
+  "kind": "fragment",
+  "raw": "올방개묵"
+ },
+ {
+  "source_id": "339",
+  "recipe_name": "달콤스테이크",
+  "kind": "fragment",
+  "raw": "레드와인 200cc. 망고 50g"
+ },
+ {
+  "source_id": "268",
+  "recipe_name": "토마토돼지고기해장국",
+  "kind": "fragment",
+  "raw": "다시마(3g) 대파(10g)"
+ },
+ {
+  "source_id": "124",
+  "recipe_name": "북어비빔밥",
+  "kind": "fragment",
+  "raw": "들기름 5g(1작은술) 장식"
+ },
+ {
+  "source_id": "125",
+  "recipe_name": "무 현미밥",
+  "kind": "fragment",
+  "raw": "표고버섯 30g(2개) 근대 10g"
+ },
+ {
+  "source_id": "317",
+  "recipe_name": "한입꼬치구이",
+  "kind": "fragment",
+  "raw": "로즈마리 1g. 마늘기름 15g"
+ },
+ {
+  "source_id": "485",
+  "recipe_name": "유자등갈비구이",
+  "kind": "fragment",
+  "raw": "마늘(20g)m 적양배추(20g)"
+ },
+ {
+  "source_id": "739",
+  "recipe_name": "꼬막떡꼬치구이",
+  "kind": "fragment",
+  "raw": "떡볶이떡 40g 고추장 8g"
+ },
+ {
+  "source_id": "740",
+  "recipe_name": "물파래콩전",
+  "kind": "fragment",
+  "raw": "물 120g 간장 2g"
+ },
+ {
+  "source_id": "682",
+  "recipe_name": "비름나물겉절이",
+  "kind": "fragment",
+  "raw": "소금물(물 100g, 소금 3g"
+ },
+ {
+  "source_id": "432",
+  "recipe_name": "불고기미니볼",
+  "kind": "fragment",
+  "raw": "다진양파 15g 빵가루 30g"
+ },
+ {
+  "source_id": "548",
+  "recipe_name": "소고기채소불고기",
+  "kind": "fragment",
+  "raw": "정종(5g) 양배추(10g)"
+ },
+ {
+  "source_id": "548",
+  "recipe_name": "소고기채소불고기",
+  "kind": "fragment",
+  "raw": "표고버섯(10g) 당근(10g)"
+ },
+ {
+  "source_id": "548",
+  "recipe_name": "소고기채소불고기",
+  "kind": "fragment",
+  "raw": "참기름(2g) 다진마늘(5g)"
+ },
+ {
+  "source_id": "593",
+  "recipe_name": "머쉬룸 닭스테이크",
+  "kind": "fragment",
+  "raw": "미니"
+ },
+ {
+  "source_id": "691",
+  "recipe_name": "호박잎다슬기된장국",
+  "kind": "recipe",
+  "raw": ""
+ },
+ {
+  "source_id": "692",
+  "recipe_name": "양배추두부찜과 양파케첩소스",
+  "kind": "recipe",
+  "raw": ""
+ },
+ {
+  "source_id": "701",
+  "recipe_name": "시래기리조또",
+  "kind": "fragment",
+  "raw": "포도씨유"
+ },
+ {
+  "source_id": "701",
+  "recipe_name": "시래기리조또",
+  "kind": "fragment",
+  "raw": "12g"
+ },
+ {
+  "source_id": "706",
+  "recipe_name": "새우두부만두",
+  "kind": "fragment",
+  "raw": "표고버섯"
+ },
+ {
+  "source_id": "706",
+  "recipe_name": "새우두부만두",
+  "kind": "fragment",
+  "raw": "8g"
+ },
+ {
+  "source_id": "455",
+  "recipe_name": "마마무스프",
+  "kind": "fragment",
+  "raw": "버터(10g"
+ },
+ {
+  "source_id": "709",
+  "recipe_name": "배추토란국",
+  "kind": "fragment",
+  "raw": "대파 2.5g 다진 마늘 1.25g"
+ },
+ {
+  "source_id": "717",
+  "recipe_name": "주꾸미돌나물무침",
+  "kind": "fragment",
+  "raw": "양파 5g 고추장 9g"
+ },
+ {
+  "source_id": "723",
+  "recipe_name": "참나물돼지고기샐러드",
+  "kind": "fragment",
+  "raw": "후춧가루 0.5g 양파 10g"
+ },
+ {
+  "source_id": "3202",
+  "recipe_name": "자색고구마 버터크림 빵",
+  "kind": "fragment",
+  "raw": "바나나슬라이스"
+ },
+ {
+  "source_id": "3265",
+  "recipe_name": "카레삼겹살 파니니",
+  "kind": "fragment",
+  "raw": "플레인 요거트(2Ts) + 꿀(1Ts)"
+ },
+ {
+  "source_id": "3163",
+  "recipe_name": "저염보쌈김치",
+  "kind": "fragment",
+  "raw": "물 50ml\""
+ },
+ {
+  "source_id": "3166",
+  "recipe_name": "오미자저염나박김치",
+  "kind": "fragment",
+  "raw": "청"
+ },
+ {
+  "source_id": "857",
+  "recipe_name": "쇠고기 감자찜",
+  "kind": "fragment",
+  "raw": "미나리잎장식"
+ },
+ {
+  "source_id": "3069",
+  "recipe_name": "새우살토마토스튜",
+  "kind": "fragment",
+  "raw": "10g"
+ },
+ {
+  "source_id": "3276",
+  "recipe_name": "닭봉 로제스튜",
+  "kind": "fragment",
+  "raw": "파르메산 치즈가루(1컵) 월계수잎(1장)"
+ },
+ {
+  "source_id": "881",
+  "recipe_name": "낙지 잣소스 냉채",
+  "kind": "fragment",
+  "raw": "흰후춧가루 0.1g레몬즙 5g"
+ },
+ {
+  "source_id": "915",
+  "recipe_name": "멜론스프",
+  "kind": "fragment",
+  "raw": "멜론"
+ },
+ {
+  "source_id": "915",
+  "recipe_name": "멜론스프",
+  "kind": "fragment",
+  "raw": "자두"
+ },
+ {
+  "source_id": "915",
+  "recipe_name": "멜론스프",
+  "kind": "fragment",
+  "raw": "생크림"
+ },
+ {
+  "source_id": "915",
+  "recipe_name": "멜론스프",
+  "kind": "fragment",
+  "raw": "민트"
+ },
+ {
+  "source_id": "916",
+  "recipe_name": "미니버거",
+  "kind": "fragment",
+  "raw": "미니"
+ },
+ {
+  "source_id": "929",
+  "recipe_name": "펜네 파스타 샐러드",
+  "kind": "fragment",
+  "raw": "믹서에 갈아줌"
+ },
+ {
+  "source_id": "939",
+  "recipe_name": "알파벳 스프",
+  "kind": "fragment",
+  "raw": "월계수잎"
+ },
+ {
+  "source_id": "945",
+  "recipe_name": "찰 어묵찜",
+  "kind": "fragment",
+  "raw": "전분 5g 양념 마늘다진것 2g"
+ },
+ {
+  "source_id": "952",
+  "recipe_name": "복숭아 화채",
+  "kind": "fragment",
+  "raw": "잣 1g 설탕시럼 설탕과 물을 동량으로 하여 중불에서 서서히 녹인다. 기호에 맞게 만든다."
+ },
+ {
+  "source_id": "3086",
+  "recipe_name": "오징어튀김&딸기쨈",
+  "kind": "fragment",
+  "raw": "계란 32.5g 후추 0.1g"
+ },
+ {
+  "source_id": "981",
+  "recipe_name": "치킨 버거 스테이크",
+  "kind": "fragment",
+  "raw": "후추적당량[양송이 속양파다진것 10g"
+ },
+ {
+  "source_id": "995",
+  "recipe_name": "종이에 싸서 구운 도미(파필로테)",
+  "kind": "fragment",
+  "raw": "유산지"
+ },
+ {
+  "source_id": "3087",
+  "recipe_name": "잎채소튀김",
+  "kind": "fragment",
+  "raw": "얼음"
+ },
+ {
+  "source_id": "745",
+  "recipe_name": "매실장아찌와 과매기구이",
+  "kind": "fragment",
+  "raw": "마늘 1g 고추장 10g"
+ },
+ {
+  "source_id": "747",
+  "recipe_name": "자색고구마호떡",
+  "kind": "fragment",
+  "raw": "물 17g 황설탕 7g"
+ },
+ {
+  "source_id": "754",
+  "recipe_name": "대구버섯구이",
+  "kind": "fragment",
+  "raw": "와사비 갠 것1"
+ },
+ {
+  "source_id": "762",
+  "recipe_name": "키조개샤브샤브",
+  "kind": "fragment",
+  "raw": "다시마 국물 200(물 300, 다시마 1, 대파 5"
+ },
+ {
+  "source_id": "774",
+  "recipe_name": "봄주먹밥",
+  "kind": "fragment",
+  "raw": "참기름 3g 두릎 8g"
+ },
+ {
+  "source_id": "774",
+  "recipe_name": "봄주먹밥",
+  "kind": "fragment",
+  "raw": "미나리 3g 주먹밥 데친꼬막살 12g"
+ },
+ {
+  "source_id": "774",
+  "recipe_name": "봄주먹밥",
+  "kind": "fragment",
+  "raw": "참깨 3g 두부강된장 참기름 10g"
+ },
+ {
+  "source_id": "781",
+  "recipe_name": "갯벌의 여왕 모시조개의 달콤한 유혹",
+  "kind": "fragment",
+  "raw": "바지락(모시조개( 200g(30개)"
+ },
+ {
+  "source_id": "1058",
+  "recipe_name": "자색고구마 호떡",
+  "kind": "fragment",
+  "raw": "검정깨"
+ },
+ {
+  "source_id": "1058",
+  "recipe_name": "자색고구마 호떡",
+  "kind": "fragment",
+  "raw": "땅콩"
+ },
+ {
+  "source_id": "1060",
+  "recipe_name": "마늘 불고기 덮밥",
+  "kind": "fragment",
+  "raw": "마늘"
+ },
+ {
+  "source_id": "786",
+  "recipe_name": "라비올리 토마토소스",
+  "kind": "fragment",
+  "raw": "물필요량"
+ },
+ {
+  "source_id": "793",
+  "recipe_name": "팥죽",
+  "kind": "fragment",
+  "raw": "설탕기호에따라"
+ },
+ {
+  "source_id": "799",
+  "recipe_name": "채소 커리를 곁들인 팬케익",
+  "kind": "recipe",
+  "raw": "."
+ },
+ {
+  "source_id": "1074",
+  "recipe_name": "그린커리",
+  "kind": "fragment",
+  "raw": "그린커리"
+ },
+ {
+  "source_id": "821",
+  "recipe_name": "양배추 깻잎 피클",
+  "kind": "fragment",
+  "raw": "식초 2g. 소금 1g"
+ },
+ {
+  "source_id": "826",
+  "recipe_name": "참기름 드레싱의 즉석 샐러드",
+  "kind": "fragment",
+  "raw": "아몬드"
+ },
+ {
+  "source_id": "831",
+  "recipe_name": "곤약 콩조림",
+  "kind": "recipe",
+  "raw": ""
+ },
+ {
+  "source_id": "843",
+  "recipe_name": "녹차 파나코타",
+  "kind": "fragment",
+  "raw": "통조림단팥장식용"
+ },
+ {
+  "source_id": "843",
+  "recipe_name": "녹차 파나코타",
+  "kind": "fragment",
+  "raw": "민트장식용"
+ },
+ {
+  "source_id": "3298",
+  "recipe_name": "매운요거트 토마토샐러드",
+  "kind": "fragment",
+  "raw": "새우(4마리) 고추기름(1Ts)"
+ }
+]

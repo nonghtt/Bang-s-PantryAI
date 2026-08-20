@@ -50,6 +50,10 @@ docs/career-source.md
 # --- 수집한 원천 데이터 (공공 API에서 재생성 가능) ---
 data/raw/
 
+# data/processed/ 는 의도적으로 추적한다.
+# data/raw/ 가 ignore 상태라 클론한 사람은 산출물을 재생성할 수 없다.
+# 정제 결과와 검증 보고서(report.md)가 이 저장소에서 확인 가능해야 한다.
+
 # --- 작업 중 스크린샷 ---
 제목 없음.png
 

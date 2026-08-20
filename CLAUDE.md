@@ -87,11 +87,43 @@ LLM 포트폴리오의 대다수는 "붙였다"에서 멈춘다. 이 프로젝�
 | `_bmad-output/planning-artifacts/briefs/brief-PantryAI-2026-08-13/brief.md` | 제품 브리프 — 문제·해법·범위·성공 기준 |
 | 같은 폴더 `addendum.md` | API 규격 · 데이터 상세 · 배제 근거 · 아키텍처 갈림길 |
 | `docs/career-source.md` | **경력 원천 자료** — 취업준비자동화 프로젝트로 이관 (gitignored, 로컬 전용) |
+| `data/processed/report.md` | 정제 결과 검증 보고서 — 스크립트가 생성한다. 직접 편집하지 않는다 |
+
+---
+
+## 데이터 파이프라인
+
+애플리케이션 아키텍처와 무관하게 먼저 확정된 부분이다.
+
+```powershell
+# PowerShell (기본 셸)
+$env:PYTHONIOENCODING = 'utf-8'
+
+python scripts/build_processed.py          # 원천 -> 정제 산출물 전량 재생성 (멱등)
+python -m unittest discover -s tests       # 파서 규칙 테스트
+```
+
+```bash
+# bash 계열
+PYTHONIOENCODING=utf-8 python scripts/build_processed.py
+PYTHONIOENCODING=utf-8 python -m unittest discover -s tests
+```
+
+- **Python 3.14를 직접 쓴다.** 이 환경에는 `uv`가 없고, 테스트는 외부 의존성 없이 표준 라이브러리 `unittest`로 짠다.
+- 콘솔 인코딩 문제를 피하려면 `PYTHONIOENCODING=utf-8`을 설정한다.
+- `data/raw/`는 **읽기 전용**이다. 절대 수정하지 않는다.
+- `data/processed/`는 전량 생성물이다. 손으로 고치지 말고 스크립트를 고쳐 다시 만든다. (`report.md` 포함)
+- 파서 규칙(`scripts/stage1/`)을 바꿀 때는 **테스트를 먼저 쓴다.** 한 형태를 고치면 다른 형태가 조용히 깨진다.
+- `build_processed.py`는 입력·출력 행 수 대조를 `assert`로 자체 검증한다. **잔차가 0이 아니면 산출물을 쓰지 않고 멈춘다.** 이 검증을 우회하지 않는다.
+
+### 판단은 다음 단계로 미룬다
+
+1단계 정제는 두 소스를 같은 모양으로 맞추는 것까지만 한다. 재료명 표준화·주재료 판정·카테고리 분류·중복 판정·데이터 생성은 **하지 않는다.** 규칙이 확신하지 못한 것은 버리지 말고 `unparsed_ingredients.json`·`orphans/`로 분리해 남긴다.
 
 ---
 
 ## 아직 정해지지 않은 것
 
-기술 스택·폴더 구조·코딩 컨벤션·테스트 명령은 **아키텍처 확정 후 이 문서에 추가한다.** 지금은 기획 단계다.
+애플리케이션 기술 스택·폴더 구조·코딩 컨벤션은 **아키텍처 확정 후 이 문서에 추가한다.**
 
 `AGENTS.md`는 만들지 않는다 — 이 문서 하나로 통일한다.

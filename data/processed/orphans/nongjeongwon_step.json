@@ -1,0 +1,1066 @@
+[
+ {
+  "ROW_NUM": 2649,
+  "RECIPE_ID": 501,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀을 믹서에 곱게 갈아 쌀가루로 만든다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2650,
+  "RECIPE_ID": 501,
+  "COOKING_NO": 2,
+  "COOKING_DC": "쌀가루에 정제수(생수)를 10배 분량으로 붓고 걸쭉해질 때까지 미음을 끓인다.",
+  "STEP_TIP": "이유식 중반기 이후부터는 점차 생수의 양을 쌀가루의 4~5배 정도까지 차츰 줄여 나간다."
+ },
+ {
+  "ROW_NUM": 2651,
+  "RECIPE_ID": 501,
+  "COOKING_NO": 3,
+  "COOKING_DC": "완전히 끓으면 농도를 확인한 후 미음을 고운체나 베보 등에 한번 더 걸러 건더기가 없도록 하여 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2652,
+  "RECIPE_ID": 502,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 믹서에 곱게 갈아 쌀가루를 만든다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2653,
+  "RECIPE_ID": 502,
+  "COOKING_NO": 2,
+  "COOKING_DC": "배는 껍질을 벗기고 과육 부분만 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2654,
+  "RECIPE_ID": 502,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 쌀가루와 갈은 배를 넣고 약 10배량 생수를 부어 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2655,
+  "RECIPE_ID": 502,
+  "COOKING_NO": 4,
+  "COOKING_DC": "미음과 배가 완전히 퍼지면 농도 확인 후 다시한번 고운체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2656,
+  "RECIPE_ID": 503,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 믹서에 곱게 갈아 쌀가루를 만든다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2657,
+  "RECIPE_ID": 503,
+  "COOKING_NO": 2,
+  "COOKING_DC": "단호박은 깨끗이 손질하여 과육만을 골라 믹서에 곱게 갈아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2658,
+  "RECIPE_ID": 503,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 ①과 ②의 재료를 넣고 10배의 생수를 부어 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2659,
+  "RECIPE_ID": 503,
+  "COOKING_NO": 4,
+  "COOKING_DC": "완전히 끓으면 마지막으로 농도 확인 후 고운체에 받쳐 걸러준 후 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2660,
+  "RECIPE_ID": 504,
+  "COOKING_NO": 1,
+  "COOKING_DC": "쌀은 깨끗이 씻어 차가운 물에 한시간 정도 담가 불린 후 체에 받쳐 물기를 빼고 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2661,
+  "RECIPE_ID": 504,
+  "COOKING_NO": 2,
+  "COOKING_DC": "브로코리는 잘 씻어 끓는 물에 살짝 데친 후 꽃 부분만 잘게 다진다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2662,
+  "RECIPE_ID": 504,
+  "COOKING_NO": 3,
+  "COOKING_DC": "쌀가루에 적당량의 정제수(생수)를 붓고 푹 끓이다가 끓기 시작하면 브로코리를 넣고 한소끔 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2663,
+  "RECIPE_ID": 504,
+  "COOKING_NO": 4,
+  "COOKING_DC": "마지막으로 농도를 확인한 후 고운체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2664,
+  "RECIPE_ID": 505,
+  "COOKING_NO": 1,
+  "COOKING_DC": "깨끗이 씻은 쌀은 한시간 정도 불린 후 믹서에 곱게 갈아 푹 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2665,
+  "RECIPE_ID": 505,
+  "COOKING_NO": 2,
+  "COOKING_DC": "비트는 껍질을 깎아 작게 썰어 믹서에 곱게 갈아준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2666,
+  "RECIPE_ID": 505,
+  "COOKING_NO": 3,
+  "COOKING_DC": "미음이 끓어 푹 퍼지면 갈아 놓은 비트를 넣고 약한 불에서 5분 정도 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2667,
+  "RECIPE_ID": 505,
+  "COOKING_NO": 4,
+  "COOKING_DC": "마지막으로 체에 받쳐 주걱으로 으깨면서 걸러낸 후 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2668,
+  "RECIPE_ID": 506,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀과 불린 찹쌀은 믹서에 곱게 갈아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2669,
+  "RECIPE_ID": 506,
+  "COOKING_NO": 2,
+  "COOKING_DC": "10배 정도의 물을 붓고 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2670,
+  "RECIPE_ID": 506,
+  "COOKING_NO": 3,
+  "COOKING_DC": "미음이 완전히 끓으면 농도를 확인한 후 고운체에 거른다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2671,
+  "RECIPE_ID": 507,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린쌀과 애호박은 곱게 갈아 둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2672,
+  "RECIPE_ID": 507,
+  "COOKING_NO": 2,
+  "COOKING_DC": "냄비에 갈아둔 쌀을 먼저 넣고 끓이다가 쌀이 퍼지기 시작하면 갈아 놓은 애호박을 넣고 10배 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2673,
+  "RECIPE_ID": 507,
+  "COOKING_NO": 3,
+  "COOKING_DC": "완전히 끓으면 농도를 확인한 후 고운체에 거른다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2674,
+  "RECIPE_ID": 508,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 믹서에 곱게 갈아 생수를 붓고 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2675,
+  "RECIPE_ID": 508,
+  "COOKING_NO": 2,
+  "COOKING_DC": "고구마는 푹 익혀 껍질을 제거하고 속살만 뜨거울 때 체에 받쳐 주걱으로 눌러 곱게 으깨 걸러낸다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2676,
+  "RECIPE_ID": 508,
+  "COOKING_NO": 3,
+  "COOKING_DC": "미음이 끓기 시작하면 으깬 고구마를 넣고 강한 불에서 나무주걱으로 저어가며 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2677,
+  "RECIPE_ID": 508,
+  "COOKING_NO": 4,
+  "COOKING_DC": "끓기 시작하면 약한 불로 줄여 쌀알이 부드럽게 퍼질 때까지 한소끔 더 끓인 후 적당한 농도를 맞춰 고운체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2678,
+  "RECIPE_ID": 509,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 체에 받쳐 물기를 제거한 후 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2679,
+  "RECIPE_ID": 509,
+  "COOKING_NO": 2,
+  "COOKING_DC": "당근은 껍질을 벗기고 잘게 썬 후 믹서에 넣어 곱게 갈아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2680,
+  "RECIPE_ID": 509,
+  "COOKING_NO": 3,
+  "COOKING_DC": "갈아놓은 쌀가루에 10배의 생수를 부어 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2681,
+  "RECIPE_ID": 509,
+  "COOKING_NO": 4,
+  "COOKING_DC": "미음이 끓기 시작하면 당근을 넣고 강한 불에서 나무주걱으로 저어가며 조금 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2682,
+  "RECIPE_ID": 509,
+  "COOKING_NO": 5,
+  "COOKING_DC": "끓기 시작하면 약한 불에서 한소끔 끓여 농도를 확인한 후 고운체에 거른 후 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2683,
+  "RECIPE_ID": 510,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀을 약간의 물과 함께 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2684,
+  "RECIPE_ID": 510,
+  "COOKING_NO": 2,
+  "COOKING_DC": "사과는 껍질과 씨를 제거한 후 강판에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2685,
+  "RECIPE_ID": 510,
+  "COOKING_NO": 3,
+  "COOKING_DC": "쌀과 약 8~9배의 물을 붓고 강한 불에서 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2686,
+  "RECIPE_ID": 510,
+  "COOKING_NO": 4,
+  "COOKING_DC": "미음이 끓어오르면 사과를 넣고 약한 불에서 주걱으로 저어가며 5분정도 더끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2687,
+  "RECIPE_ID": 510,
+  "COOKING_NO": 5,
+  "COOKING_DC": "마지막으로 적당한 농도를 확인한 후 고운 체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2688,
+  "RECIPE_ID": 511,
+  "COOKING_NO": 1,
+  "COOKING_DC": "1시간 정도 찬물에서 불린 쌀은 체에 받쳐 물기를 뺀 후 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2689,
+  "RECIPE_ID": 511,
+  "COOKING_NO": 2,
+  "COOKING_DC": "쌀과 약 8배의 생수(분유물 또는 모유)를 넣고 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2690,
+  "RECIPE_ID": 511,
+  "COOKING_NO": 3,
+  "COOKING_DC": "감자는 깨끗하게 씻어 찜기에 20분 정도 푹 찐 뒤 껍질을 벗기고 체에 곱게 내린다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2691,
+  "RECIPE_ID": 511,
+  "COOKING_NO": 4,
+  "COOKING_DC": "미음이 끓어 쌀이 푹 퍼지면 곱게 내린 감자를 넣고 3분간 더 끓여 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2692,
+  "RECIPE_ID": 512,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 체에 받쳐 물기를 제거하고 믹서에 넣어 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2693,
+  "RECIPE_ID": 512,
+  "COOKING_NO": 2,
+  "COOKING_DC": "양배추는 뿌리 부분을 제외한 부드러운 잎 부분만 골라 믹서에 넣고 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2694,
+  "RECIPE_ID": 512,
+  "COOKING_NO": 3,
+  "COOKING_DC": "미음이 끓기 시작하면 양배추를 넣고 5분정도 더 끓이다가, 고운 체에 걸러준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2695,
+  "RECIPE_ID": 513,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 믹서에 넣고 곱게 갈아 생수를 붓고 미음을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2696,
+  "RECIPE_ID": 513,
+  "COOKING_NO": 2,
+  "COOKING_DC": "오이는 껍질을 벗기고 잘게 썰어 믹서에 넣어 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2697,
+  "RECIPE_ID": 513,
+  "COOKING_NO": 3,
+  "COOKING_DC": "미음이 끓기 시작하면 오이를 넣고 5분 정도 끓인 다음, 고운체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2698,
+  "RECIPE_ID": 514,
+  "COOKING_NO": 1,
+  "COOKING_DC": "쌀은 깨끗이 씻어 찬물에 1시간 정도 불리고 애호박은 껍질을 제거한다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2699,
+  "RECIPE_ID": 514,
+  "COOKING_NO": 2,
+  "COOKING_DC": "쇠고기는 물에 담가 핏물을 빼고 준비한다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2700,
+  "RECIPE_ID": 514,
+  "COOKING_NO": 3,
+  "COOKING_DC": "불린 쌀은 믹서에 넣어 곱게 갈아주고 애호박은 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2701,
+  "RECIPE_ID": 514,
+  "COOKING_NO": 4,
+  "COOKING_DC": "곱게 간 쌀에 쇠고기와 애호박을 넣고 믹서에 한번 더 곱게 갈아준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2702,
+  "RECIPE_ID": 514,
+  "COOKING_NO": 5,
+  "COOKING_DC": "곱게 갈린 재료에 물 또는 육수를 넣고 나무주걱으로 저어가며 끓여줍니다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2703,
+  "RECIPE_ID": 515,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 멥쌀과 찹쌀은 믹서에 넣어 곱게 갈아 놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2704,
+  "RECIPE_ID": 515,
+  "COOKING_NO": 2,
+  "COOKING_DC": "단호박은 껍질을 제거하여 곱게 다지고, 브로코리는 대를 손질하여 꽃 부분만 잘게 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2705,
+  "RECIPE_ID": 515,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 적당량의 물을 붓고 ①과 ②의 재료를 넣어 푹 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2706,
+  "RECIPE_ID": 515,
+  "COOKING_NO": 4,
+  "COOKING_DC": "마지막으로 고운체에 걸러준다.(아가의 이유식 적응에 따라 생략 가능)",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2712,
+  "RECIPE_ID": 517,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 체에 건져 물기를 빼고, 쌀알 크기가 반만하게 믹서에 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2713,
+  "RECIPE_ID": 517,
+  "COOKING_NO": 2,
+  "COOKING_DC": "쇠고기는 삶은 후 곱게 다진다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2714,
+  "RECIPE_ID": 517,
+  "COOKING_NO": 3,
+  "COOKING_DC": "청경채는 흐르는 물에 깨끗이 씻어 잎부분만 잘라내어 잘게 손질한다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2715,
+  "RECIPE_ID": 517,
+  "COOKING_NO": 4,
+  "COOKING_DC": "준비된 재료들을 냄비에 담아 센 불에서 들러붙지 않게 저어가며 끓여준다. 미음이 끓기 시작하면 약한 불로 줄여 저어가며 5분 정도 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2716,
+  "RECIPE_ID": 517,
+  "COOKING_NO": 5,
+  "COOKING_DC": "마지막으로 고운체에 걸러 먹인다.(아가의 이유식 적응에 따라 생략 가능)",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2717,
+  "RECIPE_ID": 518,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀은 절구에 찧거나 쌀알 크기가 반만하게 믹서에 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2718,
+  "RECIPE_ID": 518,
+  "COOKING_NO": 2,
+  "COOKING_DC": "양송이와 당근은 깨끗이 손질하여 채를 썬후 갈아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2719,
+  "RECIPE_ID": 518,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 불린 쌀과 양송이, 당근을 넣고 8배죽을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2720,
+  "RECIPE_ID": 518,
+  "COOKING_NO": 4,
+  "COOKING_DC": "완성된 미음을 고운체에 거른다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2721,
+  "RECIPE_ID": 519,
+  "COOKING_NO": 1,
+  "COOKING_DC": "쌀은 깨끗이 씻어서 찬물에 1시간 정도 불린 후 체에 받쳐 물을 뺀 후 믹서에 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2722,
+  "RECIPE_ID": 519,
+  "COOKING_NO": 2,
+  "COOKING_DC": "냄비에 밤을 담고 밤이 푹 잠기도록 찬물을 부어 2시간 정도 불려 센 불에서 30분 정도 삶는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2723,
+  "RECIPE_ID": 519,
+  "COOKING_NO": 3,
+  "COOKING_DC": "삶은 밤의 속껍질까지 벗겨 곱게 으깬 뒤 체에 내려 고운 가루를 내린다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2724,
+  "RECIPE_ID": 519,
+  "COOKING_NO": 4,
+  "COOKING_DC": "배는 씻어 껍질을 벗기고 강판이나 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2725,
+  "RECIPE_ID": 519,
+  "COOKING_NO": 5,
+  "COOKING_DC": "냄비에 불린 쌀가루와 밤, 갈은 배를 넣고 생수를 부어 약한 불에서 30분정도 미음을 끓인 뒤 고운체에 걸러 먹인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2726,
+  "RECIPE_ID": 520,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀과 흑미를 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2727,
+  "RECIPE_ID": 520,
+  "COOKING_NO": 2,
+  "COOKING_DC": "단호박은 깨끗이 손질하여 과육만을 골라 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2728,
+  "RECIPE_ID": 520,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 ①과 ②를 넣고 8배 정도의 물을 냄비에 붓고 끓기 시작하면 주걱으로 고루 저어가며 약한 불에서 5분정도 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2729,
+  "RECIPE_ID": 520,
+  "COOKING_NO": 4,
+  "COOKING_DC": "미음이 되면 농도를 확인한 후 고운체에 거른다.(아가의 이유식 적응에 따라 생략 가능)",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2730,
+  "RECIPE_ID": 521,
+  "COOKING_NO": 1,
+  "COOKING_DC": "흰쌀과 찹쌀은 찬물에 한시간 정도 불린 후 믹서에 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2731,
+  "RECIPE_ID": 521,
+  "COOKING_NO": 2,
+  "COOKING_DC": "당근은 껍질을 제거하여 깨끗이 손질한 후 믹서에 곱게 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2732,
+  "RECIPE_ID": 521,
+  "COOKING_NO": 3,
+  "COOKING_DC": "갈아놓은 쇠고기는 완전히 익힌 후 다시 곱게 다진다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2733,
+  "RECIPE_ID": 521,
+  "COOKING_NO": 4,
+  "COOKING_DC": "죽이 끓기 시작하면 쇠고기와 당근을 넣어 한소끔 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2734,
+  "RECIPE_ID": 522,
+  "COOKING_NO": 1,
+  "COOKING_DC": "깨끗하게 씻은 아욱은 뜨거운 물에서 살짝 데쳐준 후 물기를 제거하여 다져둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2735,
+  "RECIPE_ID": 522,
+  "COOKING_NO": 2,
+  "COOKING_DC": "쇠고기는 찬물에서 핏물을 뺀 후 살짝 삶아서 다져둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2736,
+  "RECIPE_ID": 522,
+  "COOKING_NO": 3,
+  "COOKING_DC": "불린 쌀은 쌀알이 반쯤되게 믹서에 거칠게 갈아주고, 감자, 당근, 양파도 갈린 쌀알 크기만큼 갈아준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2737,
+  "RECIPE_ID": 522,
+  "COOKING_NO": 4,
+  "COOKING_DC": "쇠고기와 불린 쌀에 육수를 조금 부어 먼저 볶아 주다가 아욱과 감자를 넣고 적당량의 육수와 물을 넣어 약한 불에서 눌러 붙지 않도록 주걱으로 저어가며 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2738,
+  "RECIPE_ID": 523,
+  "COOKING_NO": 1,
+  "COOKING_DC": "흑임자를 깨끗이 씻어 팬에 기름을 두르지 않고 살짝 볶은 후 곱게 갈아놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2739,
+  "RECIPE_ID": 523,
+  "COOKING_NO": 2,
+  "COOKING_DC": "표고, 애호박, 당근, 양파등의 야채는 곱게 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2740,
+  "RECIPE_ID": 523,
+  "COOKING_NO": 3,
+  "COOKING_DC": "차가운 물에 한시간정도 불린 쌀은 거칠게 빻아서 흑임자가루와 함께 약 5배의 물을 넣고 약한 불에서 눌러 붙지 않도록 주걱으로 저어가며 죽을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2741,
+  "RECIPE_ID": 523,
+  "COOKING_NO": 4,
+  "COOKING_DC": "죽이 끓기 전 다져놓은 야채를 넣고 농도를 조절하여 10분 정도 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2742,
+  "RECIPE_ID": 524,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불린 쌀을 거칠게 갈아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2743,
+  "RECIPE_ID": 524,
+  "COOKING_NO": 2,
+  "COOKING_DC": "양송이와 당근, 밤과 양파 및 아가용 치즈는 채를 썬 후 곱게 다져둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2744,
+  "RECIPE_ID": 524,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 불린 쌀가루와 ②의 재료를 넣고 쌀이 퍼질때까지 8배죽을 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2745,
+  "RECIPE_ID": 524,
+  "COOKING_NO": 4,
+  "COOKING_DC": "완성된 죽을 고운 채에 거른다.(아가의 이유식 적응에 따라 생략 가능)",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2746,
+  "RECIPE_ID": 525,
+  "COOKING_NO": 1,
+  "COOKING_DC": "불려놓은 쌀에 닭가슴살을 찢어 넣고 절구에 빻아놓는다.",
+  "STEP_TIP": "닭 삶은 물은 두어번 정도 채에 걸러서 죽 끓이는 육수로 쓰면 좋다."
+ },
+ {
+  "ROW_NUM": 2747,
+  "RECIPE_ID": 525,
+  "COOKING_NO": 2,
+  "COOKING_DC": "청경채는 잎부분만 따로 잘라내어 끓는 물에 데쳐서 잘게 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2748,
+  "RECIPE_ID": 525,
+  "COOKING_NO": 3,
+  "COOKING_DC": "각종야채(양파, 당근, 애호박 등)는 곱게 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2749,
+  "RECIPE_ID": 525,
+  "COOKING_NO": 4,
+  "COOKING_DC": "①의 재료에 정수물 또는 닭육수를 붓고 눌러 붙지 않게 주걱으로 저어가며 센 불에서 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2750,
+  "RECIPE_ID": 525,
+  "COOKING_NO": 5,
+  "COOKING_DC": "④의 재료가 한번 보글보글 끓어오르면 다져 놓은 각종 야채를 넣고 약한 불로 줄여 쌀이 푹 퍼질 때까지 약 10분정도 더 끓여준 후 다져놓은 청경채를 넣고 3~4분간 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2751,
+  "RECIPE_ID": 526,
+  "COOKING_NO": 1,
+  "COOKING_DC": "닭 가슴살을 우유에 담가 누린내를 없앤 뒤 겉의 얇은 막을 벗겨내고 흐르는 물에 씻는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2752,
+  "RECIPE_ID": 526,
+  "COOKING_NO": 2,
+  "COOKING_DC": "냄비에 닭 가슴살과 손질한 양파, 대파를 넣어 푹 삶는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2753,
+  "RECIPE_ID": 526,
+  "COOKING_NO": 3,
+  "COOKING_DC": "비트는 잘게 썰어 멥쌀, 닭가슴살과 함께 절구에 빻아놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2754,
+  "RECIPE_ID": 526,
+  "COOKING_NO": 4,
+  "COOKING_DC": "냄비에 준비된 재료를 넣고 눌어붙지 않도록 나무주걱으로 저어가면서 끓인다. 끓기 시작하면 다진 양파를 약간 넣고 10분정도 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2755,
+  "RECIPE_ID": 527,
+  "COOKING_NO": 1,
+  "COOKING_DC": "멥쌀과 찹쌀은 깨끗이 씻은 후 차가운 물에 한시간정도 불린 후 거칠게 으깬다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2756,
+  "RECIPE_ID": 527,
+  "COOKING_NO": 2,
+  "COOKING_DC": "고구마는 껍질째 삶아 익힌 후 껍질을 벗겨 곱게 으깨고, 사과는 곱게 다져 놓는다.",
+  "STEP_TIP": "고구마 껍질 쉽게 벗기기 : 고구마를 깨끗이 씻은 후 껍질 채 삶아내어 차가운 물에 10초 정도 담갔다 건져낸 후 까면 쉽게 벗겨진다. 삶기 전에 껍질에 동그랗게 칼집을 낸후 삶아건져내어 양끝에서 껍질을 잡아당기면 한번에 쉽게 껍질을 제거할 수 있다."
+ },
+ {
+  "ROW_NUM": 2757,
+  "RECIPE_ID": 527,
+  "COOKING_NO": 3,
+  "COOKING_DC": "각종 야채(양파, 당근 등)는 곱게 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2758,
+  "RECIPE_ID": 527,
+  "COOKING_NO": 4,
+  "COOKING_DC": "죽이 끓어오르면 사과를 먼저 넣고 끓이다가 약한 불로 줄여 으깬 고구마와 각종야채를 넣고 쌀알이 퍼질 때까지 10분 정도 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2759,
+  "RECIPE_ID": 528,
+  "COOKING_NO": 1,
+  "COOKING_DC": "흰살 생선은 깨끗이 손질하고 쪄서 살만 발라놓은 후 으깨놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2760,
+  "RECIPE_ID": 528,
+  "COOKING_NO": 2,
+  "COOKING_DC": "양파, 당근, 감자 등 각종 야채는 잘게 썰어 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2761,
+  "RECIPE_ID": 528,
+  "COOKING_NO": 3,
+  "COOKING_DC": "불린 쌀은 거칠게 갈아 강한 불에서 죽을 만든다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2762,
+  "RECIPE_ID": 528,
+  "COOKING_NO": 4,
+  "COOKING_DC": "죽이 끓기 시작하면 으깬 생선과 각종 야채 및 치즈를 넣고 약한 불에서 쌀알이 퍼질때까지 10여분 정도 더 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2763,
+  "RECIPE_ID": 529,
+  "COOKING_NO": 1,
+  "COOKING_DC": "쇠고기는 핏물을 뺀 뒤 키친타월에 싸서 물기를 빼고 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2764,
+  "RECIPE_ID": 529,
+  "COOKING_NO": 2,
+  "COOKING_DC": "브로코리는 꽃부분만 잘게 썰고, 감자, 양파, 당근과 느타리버섯은 채썰어 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2765,
+  "RECIPE_ID": 529,
+  "COOKING_NO": 3,
+  "COOKING_DC": "쇠고기는 센불에서 달달 볶다가 고기가 익기 시작하면 ②의 재료와 진밥을 넣고 잘 섞은 후 적당량의 물을 붓고 바닥에 달라붙지 않게 나무주걱으로 저어가며 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2766,
+  "RECIPE_ID": 529,
+  "COOKING_NO": 4,
+  "COOKING_DC": "마지막으로 끓기 시작하면 약한 불에서 쌀알이 푹 퍼질 때까지 저어가며 10분정도 더 끓여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2767,
+  "RECIPE_ID": 530,
+  "COOKING_NO": 1,
+  "COOKING_DC": "닭가슴살은 끓는 물에 푹 삶아 건져 가늘게 찢은 후 잘게 썬다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2768,
+  "RECIPE_ID": 530,
+  "COOKING_NO": 2,
+  "COOKING_DC": "①을 삶고 난 국물은 버리지 말고 기름기를 두어번 걸러내어 담아둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2769,
+  "RECIPE_ID": 530,
+  "COOKING_NO": 3,
+  "COOKING_DC": "가지와 호박은 깨끗이 씻어 껍질을 벗긴 후 잘게 썰어놓고, 양파와 당근도 잘게 썰어둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2770,
+  "RECIPE_ID": 530,
+  "COOKING_NO": 4,
+  "COOKING_DC": "냄비에 ①과 ③과 진밥을 넣고 잘 섞은 뒤 ②의 닭육수를 붓고 재료가 푹 익도록 저어가며 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2775,
+  "RECIPE_ID": 532,
+  "COOKING_NO": 1,
+  "COOKING_DC": "두부는 잘게 썰고, 적양배추는 믹서에 살짝 간다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2776,
+  "RECIPE_ID": 532,
+  "COOKING_NO": 2,
+  "COOKING_DC": "아가용 치즈는 잘게 썰어 둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2777,
+  "RECIPE_ID": 532,
+  "COOKING_NO": 3,
+  "COOKING_DC": "냄비에 두부와 다시마 국물을 약간 넣고 볶다가 적양배추와 밥을 넣고 잘 섞은 뒤, 남은 다시마 국물을 마저 넣고 약한 불에서 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2778,
+  "RECIPE_ID": 532,
+  "COOKING_NO": 4,
+  "COOKING_DC": "쌀알이 푹 퍼지면 치즈를 넣고 한소끔 끓인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2779,
+  "RECIPE_ID": 533,
+  "COOKING_NO": 1,
+  "COOKING_DC": "브로코리는 꽃부분 송이를 한입크기로 잘라준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2780,
+  "RECIPE_ID": 533,
+  "COOKING_NO": 2,
+  "COOKING_DC": "끓는 소금물에 브로코리를 넣고 1분정도 데쳐 흐르는 찬물로 헹궈낸 후 체에 받쳐 물기를 빼놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2781,
+  "RECIPE_ID": 533,
+  "COOKING_NO": 3,
+  "COOKING_DC": "오징어는 안쪽 내장을 깨끗이 제거하고 그물 모양으로 잘게 칼집을 내어 손질한다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2782,
+  "RECIPE_ID": 533,
+  "COOKING_NO": 4,
+  "COOKING_DC": "끓는 물에 오징어를 넣어 30초만 살짝만 데쳐 체에 받쳐 식힌다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2783,
+  "RECIPE_ID": 533,
+  "COOKING_NO": 5,
+  "COOKING_DC": "오징어는 한입크기로 적당하게 썰어 접시에 접시에 브로코리와 색을 맞춰 예쁘게 올려 초고추장 소스와 함께 내어주세요~",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2784,
+  "RECIPE_ID": 534,
+  "COOKING_NO": 1,
+  "COOKING_DC": "껍질을 벗긴 도라지는 굵은 소금을 넣어 쌀을 씻듯 잘 문질러 찬물에 담갔다가 건져내어 손질한 후 먹기 좋게 4~5cm로 잘라낸다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2785,
+  "RECIPE_ID": 534,
+  "COOKING_NO": 2,
+  "COOKING_DC": "오이는 세로로 반 갈라 어슷 썰기로 잘라 굵은 소금을 뿌려 살짝 절여준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2786,
+  "RECIPE_ID": 534,
+  "COOKING_NO": 3,
+  "COOKING_DC": "물기를 뺀 도라지와 오이는 믹싱볼에 함께 넣어 양념과 함께 조물조물 무쳐 준다.(기호에 따라 식초나 설탕의 양을 조절할 수 있다.)",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2787,
+  "RECIPE_ID": 535,
+  "COOKING_NO": 1,
+  "COOKING_DC": "상추는 물에 10분정도 충분히 담가 두었다가 한 장씩 깨끗이 씻어 체에 받혀 물기를 빼둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2788,
+  "RECIPE_ID": 535,
+  "COOKING_NO": 2,
+  "COOKING_DC": "깨끗이 손질한 상추에 양념장을 짜지 않게 솔솔 뿌려 접시에 맛있게 담아낸다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2789,
+  "RECIPE_ID": 536,
+  "COOKING_NO": 1,
+  "COOKING_DC": "가지는 깨끗이 씻어 세로로 얇게 썬 후 굵은 소금을 뿌리고 물기가 촉촉히 생기면 거즈로 흡수해 물기를 닦는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2790,
+  "RECIPE_ID": 536,
+  "COOKING_NO": 2,
+  "COOKING_DC": "팬에 기름(올리브유)을 두르고 살짝 달군 후 가지를 넣고 후춧가루로 간해 노릇하게 굽는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2791,
+  "RECIPE_ID": 536,
+  "COOKING_NO": 3,
+  "COOKING_DC": "불에 소스 재료를 넣고 잘 섞는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2792,
+  "RECIPE_ID": 536,
+  "COOKING_NO": 4,
+  "COOKING_DC": "파프리카와 피망은 깨끗이 씻어 씨를 도려낸 후 4~5㎝ 길이로 얇게 채 썬다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2793,
+  "RECIPE_ID": 536,
+  "COOKING_NO": 5,
+  "COOKING_DC": "②의 가지 위에 채 썬 파프리카와 피망을 얹고 김밥처럼 돌돌 말아 소스와 곁들인다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2794,
+  "RECIPE_ID": 537,
+  "COOKING_NO": 1,
+  "COOKING_DC": "마늘은 깨끗이 손질하여 편으로 썰어 팬에 노릇하게 볶아준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2795,
+  "RECIPE_ID": 537,
+  "COOKING_NO": 2,
+  "COOKING_DC": "새송이버섯은 먹기 좋은 크기로 잘라두고, 마늘이 투명한 색으로 변하면 새송이 버섯을 넣고 소금을 흩어 뿌린 후에 중간불에서 저어가며 볶는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2796,
+  "RECIPE_ID": 537,
+  "COOKING_NO": 3,
+  "COOKING_DC": "버섯의 숨이 죽으면 맛간장을 넣은 후 고루 섞어가며 살짝 볶는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2797,
+  "RECIPE_ID": 537,
+  "COOKING_NO": 4,
+  "COOKING_DC": "깨를 뿌려 접시에 담아낸다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2798,
+  "RECIPE_ID": 538,
+  "COOKING_NO": 1,
+  "COOKING_DC": "단호박은 적당한 크기로 잘라 쪄준 후 껍질을 벗겨 으깬다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2799,
+  "RECIPE_ID": 538,
+  "COOKING_NO": 2,
+  "COOKING_DC": "오이와 사과, 삶은 달걀 흰자는 으깨듯 잘게 썰어준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2800,
+  "RECIPE_ID": 538,
+  "COOKING_NO": 3,
+  "COOKING_DC": "으깬 단호박에 마요네즈를 넣고 고루 섞은 후 오이, 달걀, 사과를 넣고 버무린다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2801,
+  "RECIPE_ID": 538,
+  "COOKING_NO": 4,
+  "COOKING_DC": "토스트기나 프라이팬에 식빵을 노릇하게 구워 단호박 샐러드를 듬뿍 올려준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2802,
+  "RECIPE_ID": 539,
+  "COOKING_NO": 1,
+  "COOKING_DC": "고구마는 반을 잘라 껍질째 15분정도 쪄내고 쪄낸 후 껍질을 벗겨 뜨거울 때 포크를 이용해서 곱게 으깨놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2803,
+  "RECIPE_ID": 539,
+  "COOKING_NO": 2,
+  "COOKING_DC": "준비된 야채는 곱게 채썰어 다져놓는다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2804,
+  "RECIPE_ID": 539,
+  "COOKING_NO": 3,
+  "COOKING_DC": "으깬 고구마에 마요네즈를 넣고 고루 섞은 후 야채를 넣고 버무린다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2805,
+  "RECIPE_ID": 539,
+  "COOKING_NO": 4,
+  "COOKING_DC": "토스트기나 프라이팬에 식빵을 노릇하게 구워 완성된 고구마 샐러드를 듬뿍 올려준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2806,
+  "RECIPE_ID": 540,
+  "COOKING_NO": 1,
+  "COOKING_DC": "감자는 껍질째 삶아 뜨거울 때 껍질을 벗기고 포크를 이용해 으깨준다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2807,
+  "RECIPE_ID": 540,
+  "COOKING_NO": 2,
+  "COOKING_DC": "각종 야채와 햄, 맛살은 잘게 썰어 다져둔다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2808,
+  "RECIPE_ID": 540,
+  "COOKING_NO": 3,
+  "COOKING_DC": "으깬 감자와 야채를 고루 섞은 뒤 플레인 요구르트(마요네즈)를 넣어 버무린다.",
+  "STEP_TIP": ""
+ },
+ {
+  "ROW_NUM": 2809,
+  "RECIPE_ID": 540,
+  "COOKING_NO": 4,
+  "COOKING_DC": "노릇하게 잘 구워진 식빵위에 감자샐러드를 푸짐하게 발라준다.",
+  "STEP_TIP": ""
+ }
+]
