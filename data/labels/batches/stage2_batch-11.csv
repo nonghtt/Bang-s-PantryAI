@@ -1,0 +1,1609 @@
+source,source_id,seq,name_raw,표준명,근거
+nongjeongwon,265,1,고들빼기,고들빼기,어휘없음 — 352종에 고들빼기 없음
+nongjeongwon,265,2,실파,실파,그대로
+nongjeongwon,265,3,고추,고추,그대로
+nongjeongwon,265,4,갓,갓,그대로
+nongjeongwon,265,5,고춧가루,고춧가루,그대로
+nongjeongwon,265,6,멸치액젓,멸치액젓,그대로
+nongjeongwon,265,7,설탕,설탕,그대로
+nongjeongwon,265,8,밤,밤,그대로
+nongjeongwon,265,9,대추,대추,그대로
+nongjeongwon,265,10,깨소금,깨소금,그대로
+nongjeongwon,265,11,다진마늘,마늘,가공 상태 통합
+nongjeongwon,265,12,다진생강,생강,가공 상태 통합
+nongjeongwon,266,1,달래,달래,그대로
+nongjeongwon,266,2,굴,굴,그대로
+nongjeongwon,266,3,청고추,청고추,그대로
+nongjeongwon,266,4,홍고추,홍고추,그대로
+nongjeongwon,266,5,밀가루,밀가루,그대로
+nongjeongwon,266,6,계란,계란,그대로
+nongjeongwon,266,7,물,물,그대로
+nongjeongwon,266,8,간장,간장,그대로
+nongjeongwon,266,9,식초,식초,그대로
+nongjeongwon,266,10,다진마늘,마늘,가공 상태 통합
+nongjeongwon,266,11,깨소금,깨소금,그대로
+nongjeongwon,266,12,실파,실파,그대로
+nongjeongwon,267,1,달래,달래,그대로
+nongjeongwon,267,2,마늘,마늘,그대로
+nongjeongwon,267,3,생강,생강,그대로
+nongjeongwon,267,4,고춧가루,고춧가루,그대로
+nongjeongwon,267,5,진간장,진간장,그대로
+nongjeongwon,267,6,설탕,설탕,그대로
+nongjeongwon,267,7,통깨,통깨,그대로
+nongjeongwon,268,1,두릅,두릅,그대로
+nongjeongwon,268,2,된장,된장,그대로
+nongjeongwon,268,3,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,268,4,다진마늘,마늘,가공 상태 통합
+nongjeongwon,268,5,깨소금,깨소금,그대로
+nongjeongwon,268,6,참기름,참기름,그대로
+nongjeongwon,268,7,실고추,실고추,그대로
+nongjeongwon,268,8,소금,소금,그대로
+nongjeongwon,268,9,설탕,설탕,그대로
+nongjeongwon,269,1,숙주,숙주,그대로
+nongjeongwon,269,2,미나리,미나리,그대로
+nongjeongwon,269,3,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,269,4,다진마늘,마늘,가공 상태 통합
+nongjeongwon,269,5,깨소금,깨소금,그대로
+nongjeongwon,269,6,실고추,실고추,그대로
+nongjeongwon,269,7,참기름,참기름,그대로
+nongjeongwon,270,1,참나물,참나물,그대로
+nongjeongwon,270,2,고추장,고추장,그대로
+nongjeongwon,270,3,다진마늘,마늘,가공 상태 통합
+nongjeongwon,270,4,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,270,5,깨소금,깨소금,그대로
+nongjeongwon,270,6,참기름,참기름,그대로
+nongjeongwon,271,1,오징어,오징어,그대로
+nongjeongwon,271,2,마늘,마늘,그대로
+nongjeongwon,271,3,대파,대파,그대로
+nongjeongwon,271,4,고추장,고추장,그대로
+nongjeongwon,271,5,고춧가루,고춧가루,그대로
+nongjeongwon,271,6,간장,간장,그대로
+nongjeongwon,271,7,물엿,물엿,그대로
+nongjeongwon,271,8,양파즙,양파,짜낸 즙은 원물
+nongjeongwon,271,9,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,271,10,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,271,11,다진마늘,마늘,가공 상태 통합
+nongjeongwon,271,12,깨소금,깨소금,그대로
+nongjeongwon,271,13,후춧가루,후추,가공 상태 통합
+nongjeongwon,271,14,참기름,참기름,그대로
+nongjeongwon,272,1,닭,닭고기,표기 통일
+nongjeongwon,272,2,콩나물,콩나물,그대로
+nongjeongwon,272,3,오이,오이,그대로
+nongjeongwon,272,4,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,272,5,마늘,마늘,그대로
+nongjeongwon,272,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,272,7,실파,실파,그대로
+nongjeongwon,272,8,소금,소금,그대로
+nongjeongwon,272,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,272,10,고춧가루,고춧가루,그대로
+nongjeongwon,272,11,파,대파,수식 없는 파는 대파
+nongjeongwon,272,12,육수,육수,그대로
+nongjeongwon,272,13,밥,쌀,조리 단계 통합
+nongjeongwon,273,1,신김치,신김치,그대로
+nongjeongwon,273,2,두부,두부,그대로
+nongjeongwon,273,3,돼지고기,돼지고기,그대로
+nongjeongwon,273,4,청고추,청고추,그대로
+nongjeongwon,273,5,깻잎,깻잎,그대로
+nongjeongwon,273,6,대파,대파,그대로
+nongjeongwon,273,7,생강,생강,그대로
+nongjeongwon,273,8,소금,소금,그대로
+nongjeongwon,274,1,호박,호박,그대로
+nongjeongwon,274,2,두부,두부,그대로
+nongjeongwon,274,3,새우젓,새우젓,그대로
+nongjeongwon,274,4,파,대파,수식 없는 파는 대파
+nongjeongwon,274,5,청고추,청고추,그대로
+nongjeongwon,274,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,274,7,물,물,그대로
+nongjeongwon,274,8,식용유,식용유,그대로
+nongjeongwon,274,9,소금,소금,그대로
+nongjeongwon,274,10,참기름,참기름,그대로
+nongjeongwon,275,1,해파리,해파리,어휘없음 — 352종에 해파리 없음
+nongjeongwon,275,2,새우,새우,그대로
+nongjeongwon,275,3,쭈꾸미,주꾸미,표기 통일
+nongjeongwon,275,4,오이,오이,그대로
+nongjeongwon,275,5,당근,당근,그대로
+nongjeongwon,275,6,홍피망,피망,색상 표기 통합
+nongjeongwon,275,7,계란,계란,그대로
+nongjeongwon,275,8,겨자,겨자,그대로
+nongjeongwon,275,9,머스터드,머스터드,그대로
+nongjeongwon,275,10,마늘,마늘,그대로
+nongjeongwon,275,11,식초,식초,그대로
+nongjeongwon,275,12,설탕,설탕,그대로
+nongjeongwon,275,13,간장,간장,그대로
+nongjeongwon,275,14,소금,소금,그대로
+nongjeongwon,275,15,참기름,참기름,그대로
+nongjeongwon,276,1,닭,닭고기,표기 통일
+nongjeongwon,276,2,당근,당근,그대로
+nongjeongwon,276,3,완두콩통조림,완두콩,포장 형태 통합
+nongjeongwon,276,4,옥수수통조림,옥수수,포장 형태 통합
+nongjeongwon,276,5,식용유,식용유,그대로
+nongjeongwon,276,6,버터,버터,그대로
+nongjeongwon,276,7,토마토케첩,토마토케첩,그대로
+nongjeongwon,276,8,우스터소스,우스터소스,그대로
+nongjeongwon,276,9,설탕,설탕,그대로
+nongjeongwon,277,1,아스파라거스,아스파라거스,그대로
+nongjeongwon,277,2,새우,새우,그대로
+nongjeongwon,277,3,샐러리,샐러리,그대로
+nongjeongwon,277,4,미림,미림,그대로
+nongjeongwon,277,5,소금,소금,그대로
+nongjeongwon,277,6,후춧가루,후추,가공 상태 통합
+nongjeongwon,277,7,참기름,참기름,그대로
+nongjeongwon,278,1,밀가루,밀가루,그대로
+nongjeongwon,278,2,물,물,그대로
+nongjeongwon,278,3,소금,소금,그대로
+nongjeongwon,278,4,육수,육수,그대로
+nongjeongwon,278,5,팽이버섯,팽이버섯,그대로
+nongjeongwon,278,6,쑥갓,쑥갓,그대로
+nongjeongwon,278,7,쇠고기,소고기,표기 통일
+nongjeongwon,278,8,배추,배추,그대로
+nongjeongwon,278,9,부추,부추,그대로
+nongjeongwon,278,10,식용유,식용유,그대로
+nongjeongwon,278,11,녹말,녹말,그대로
+nongjeongwon,278,12,간장,간장,그대로
+nongjeongwon,278,13,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,278,14,다진마늘,마늘,가공 상태 통합
+nongjeongwon,278,15,후춧가루,후추,가공 상태 통합
+nongjeongwon,278,16,참기름,참기름,그대로
+nongjeongwon,279,1,돼지고기,돼지고기,그대로
+nongjeongwon,279,2,표고버섯,건표고버섯,조리과정 '표고버섯은 미지근한 물에 불려' · '표고버섯 불린 물'
+nongjeongwon,279,3,양파,양파,그대로
+nongjeongwon,279,4,피망,피망,그대로
+nongjeongwon,279,5,청고추,청고추,그대로
+nongjeongwon,279,6,대파,대파,그대로
+nongjeongwon,279,7,마늘,마늘,그대로
+nongjeongwon,279,8,생강,생강,그대로
+nongjeongwon,279,9,녹말,녹말,그대로
+nongjeongwon,279,10,소금,소금,그대로
+nongjeongwon,279,11,굴소스,굴소스,그대로
+nongjeongwon,279,12,후춧가루,후추,가공 상태 통합
+nongjeongwon,279,13,조미술,맛술,표기 통일
+nongjeongwon,280,1,풋마늘,풋마늘,어휘없음 — 마늘로 대체 불가한 부위
+nongjeongwon,280,2,갑오징어,갑오징어,그대로
+nongjeongwon,280,3,간장,간장,그대로
+nongjeongwon,280,4,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,280,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,280,6,참기름,참기름,그대로
+nongjeongwon,280,7,깨소금,깨소금,그대로
+nongjeongwon,280,8,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,280,9,밀가루,밀가루,그대로
+nongjeongwon,280,10,물,물,그대로
+nongjeongwon,280,11,꼬치,꼬치,그대로
+nongjeongwon,281,1,밥,쌀,조리 단계 통합
+nongjeongwon,281,2,상추,상추,그대로
+nongjeongwon,281,3,오이,오이,그대로
+nongjeongwon,281,4,대파,대파,그대로
+nongjeongwon,281,5,도라지,도라지,그대로
+nongjeongwon,281,6,고사리,고사리,그대로
+nongjeongwon,281,7,당근,당근,그대로
+nongjeongwon,281,8,간장,간장,그대로
+nongjeongwon,281,9,식초,식초,그대로
+nongjeongwon,281,10,고춧가루,고춧가루,그대로
+nongjeongwon,281,11,설탕,설탕,그대로
+nongjeongwon,281,12,참기름,참기름,그대로
+nongjeongwon,281,13,소금,소금,그대로
+nongjeongwon,281,14,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,281,15,다진마늘,마늘,가공 상태 통합
+nongjeongwon,282,1,두부,두부,그대로
+nongjeongwon,282,2,계란,계란,그대로
+nongjeongwon,282,3,모시조개,모시조개,그대로
+nongjeongwon,282,4,새우,새우,그대로
+nongjeongwon,282,5,표고버섯,표고버섯,그대로
+nongjeongwon,282,6,다시물,다시물,그대로
+nongjeongwon,282,7,은행,은행,그대로
+nongjeongwon,282,8,조미술,맛술,표기 통일
+nongjeongwon,282,9,소금,소금,그대로
+nongjeongwon,282,10,간장,간장,그대로
+nongjeongwon,283,1,양상추,양상추,그대로
+nongjeongwon,283,2,오이피클,피클,원료 표기 통합
+nongjeongwon,283,3,훈제연어,훈제연어,그대로
+nongjeongwon,283,4,체리,체리,그대로
+nongjeongwon,283,5,땅콩버터,땅콩버터,그대로
+nongjeongwon,283,6,무순,무순,그대로
+nongjeongwon,284,1,브로콜리,브로콜리,그대로
+nongjeongwon,284,2,버터,버터,그대로
+nongjeongwon,284,3,밀가루,밀가루,그대로
+nongjeongwon,284,4,우유,우유,그대로
+nongjeongwon,284,5,생크림,생크림,그대로
+nongjeongwon,284,6,소금,소금,그대로
+nongjeongwon,284,7,후춧가루,후추,가공 상태 통합
+nongjeongwon,285,1,오징어,오징어,그대로
+nongjeongwon,285,2,새우,새우,그대로
+nongjeongwon,285,3,가래떡,가래떡,그대로
+nongjeongwon,285,4,피망,피망,그대로
+nongjeongwon,285,5,고추장,고추장,그대로
+nongjeongwon,285,6,설탕,설탕,그대로
+nongjeongwon,285,7,식초,식초,그대로
+nongjeongwon,285,8,케첩,토마토케첩,표기 통일
+nongjeongwon,285,9,간장,간장,그대로
+nongjeongwon,285,10,고춧가루,고춧가루,그대로
+nongjeongwon,285,11,다진마늘,마늘,가공 상태 통합
+nongjeongwon,285,12,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,285,13,핫소스,핫소스,어휘없음 — 352종에 핫소스 없음
+nongjeongwon,285,14,참기름,참기름,그대로
+nongjeongwon,285,15,후춧가루,후추,가공 상태 통합
+nongjeongwon,286,1,밥,쌀,조리 단계 통합
+nongjeongwon,286,2,옥수수통조림,옥수수,포장 형태 통합
+nongjeongwon,286,3,피망,피망,그대로
+nongjeongwon,286,4,햄,햄,그대로
+nongjeongwon,286,5,양파,양파,그대로
+nongjeongwon,286,6,당근,당근,그대로
+nongjeongwon,286,7,소금,소금,그대로
+nongjeongwon,286,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,287,1,꽁치통조림,꽁치,포장 형태 통합
+nongjeongwon,287,2,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,287,3,다진마늘,마늘,가공 상태 통합
+nongjeongwon,287,4,다진대파,대파,가공 상태 통합
+nongjeongwon,287,5,참기름,참기름,그대로
+nongjeongwon,287,6,고춧가루,고춧가루,그대로
+nongjeongwon,287,7,간장,간장,그대로
+nongjeongwon,287,8,설탕,설탕,그대로
+nongjeongwon,287,9,물,물,그대로
+nongjeongwon,288,1,돼지고기,돼지고기,그대로
+nongjeongwon,288,2,모짜렐라치즈,모짜렐라치즈,그대로
+nongjeongwon,288,3,청피망,피망,색상 표기 통합
+nongjeongwon,288,4,밀가루,밀가루,그대로
+nongjeongwon,288,5,계란,계란,그대로
+nongjeongwon,288,6,빵가루,빵가루,그대로
+nongjeongwon,288,7,소금,소금,그대로
+nongjeongwon,288,8,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,289,1,가래떡,가래떡,그대로
+nongjeongwon,289,2,양파,양파,그대로
+nongjeongwon,289,3,당근,당근,그대로
+nongjeongwon,289,4,청피망,피망,색상 표기 통합
+nongjeongwon,289,5,채썬쇠고기,소고기,가공 상태 통합·표기 통일
+nongjeongwon,289,6,간장,간장,그대로
+nongjeongwon,289,7,설탕,설탕,그대로
+nongjeongwon,289,8,참기름,참기름,그대로
+nongjeongwon,289,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,289,10,간장,간장,그대로
+nongjeongwon,289,11,설탕,설탕,그대로
+nongjeongwon,289,12,참기름,참기름,그대로
+nongjeongwon,289,13,표고버섯,표고버섯,그대로
+nongjeongwon,289,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,289,15,다진마늘,마늘,가공 상태 통합
+nongjeongwon,290,1,춘권피,춘권피,그대로
+nongjeongwon,290,2,쇠고기,소고기,표기 통일
+nongjeongwon,290,3,깻잎,깻잎,그대로
+nongjeongwon,290,4,무순,무순,그대로
+nongjeongwon,290,5,양파,양파,그대로
+nongjeongwon,290,6,토마토,토마토,그대로
+nongjeongwon,290,7,식용유,식용유,그대로
+nongjeongwon,290,8,간장,간장,그대로
+nongjeongwon,290,9,설탕,설탕,그대로
+nongjeongwon,290,10,조미술,맛술,표기 통일
+nongjeongwon,290,11,후춧가루,후추,가공 상태 통합
+nongjeongwon,290,12,토마토,토마토,그대로
+nongjeongwon,290,13,케첩,토마토케첩,표기 통일
+nongjeongwon,290,14,핫소스,핫소스,어휘없음 — 352종에 핫소스 없음
+nongjeongwon,291,1,밥,쌀,조리 단계 통합
+nongjeongwon,291,2,소금,소금,그대로
+nongjeongwon,291,3,참기름,참기름,그대로
+nongjeongwon,291,4,설탕,설탕,그대로
+nongjeongwon,291,5,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,291,6,조미료,조미료,어휘없음 — 혼합 조미료 항목 없음
+nongjeongwon,291,7,김칫잎,배추김치,부위 통합
+nongjeongwon,292,1,국멸치,멸치,용도 표기 제거
+nongjeongwon,292,2,호박,호박,그대로
+nongjeongwon,292,3,당근,당근,그대로
+nongjeongwon,292,4,채썬쇠고기,소고기,가공 상태 통합·표기 통일
+nongjeongwon,292,5,계란,계란,그대로
+nongjeongwon,292,6,소면,국수,굵기 표기 통합
+nongjeongwon,292,7,소금,소금,그대로
+nongjeongwon,292,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,292,9,국간장,국간장,그대로
+nongjeongwon,292,10,간장,간장,그대로
+nongjeongwon,292,11,고춧가루,고춧가루,그대로
+nongjeongwon,292,12,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,292,13,참기름,참기름,그대로
+nongjeongwon,292,14,깨소금,깨소금,그대로
+nongjeongwon,292,15,간장,간장,그대로
+nongjeongwon,292,16,설탕,설탕,그대로
+nongjeongwon,292,17,참기름,참기름,그대로
+nongjeongwon,293,1,감자,감자,그대로
+nongjeongwon,293,2,양파,양파,그대로
+nongjeongwon,293,3,베이컨,베이컨,그대로
+nongjeongwon,293,4,크림수프,크림수프,어휘없음 — 완제 수프
+nongjeongwon,293,5,모짜렐라치즈,모짜렐라치즈,그대로
+nongjeongwon,293,6,소금,소금,그대로
+nongjeongwon,294,1,코다리,코다리,그대로
+nongjeongwon,294,2,양파,양파,그대로
+nongjeongwon,294,3,청고추,청고추,그대로
+nongjeongwon,294,4,간장,간장,그대로
+nongjeongwon,294,5,설탕,설탕,그대로
+nongjeongwon,294,6,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,294,7,다진마늘,마늘,가공 상태 통합
+nongjeongwon,294,8,참기름,참기름,그대로
+nongjeongwon,294,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,294,10,깨소금,깨소금,그대로
+nongjeongwon,294,11,물,물,그대로
+nongjeongwon,295,1,닭,닭고기,표기 통일
+nongjeongwon,295,2,파인애플,파인애플,그대로
+nongjeongwon,295,3,브로콜리,브로콜리,그대로
+nongjeongwon,295,4,당근,당근,그대로
+nongjeongwon,295,5,설탕,설탕,그대로
+nongjeongwon,295,6,청주,청주,그대로
+nongjeongwon,295,7,물,물,그대로
+nongjeongwon,295,8,밥,쌀,조리 단계 통합
+nongjeongwon,295,9,청피망,피망,색상 표기 통합
+nongjeongwon,295,10,계란,계란,그대로
+nongjeongwon,295,11,간장,간장,그대로
+nongjeongwon,295,12,참기름,참기름,그대로
+nongjeongwon,295,13,식용유,식용유,그대로
+nongjeongwon,295,14,숙주,숙주,그대로
+nongjeongwon,296,1,순대,순대,어휘없음 — 352종에 순대 없음
+nongjeongwon,296,2,양배추,양배추,그대로
+nongjeongwon,296,3,양파,양파,그대로
+nongjeongwon,296,4,깻잎,깻잎,그대로
+nongjeongwon,296,5,쫄면,국수,면류 세부 어휘 없음 — 국수로 통합
+nongjeongwon,296,6,고춧가루,고춧가루,그대로
+nongjeongwon,296,7,간장,간장,그대로
+nongjeongwon,296,8,설탕,설탕,그대로
+nongjeongwon,296,9,들깻가루,들깻가루,그대로
+nongjeongwon,296,10,다진마늘,마늘,가공 상태 통합
+nongjeongwon,296,11,식용유,식용유,그대로
+nongjeongwon,297,1,닭,닭고기,표기 통일
+nongjeongwon,297,2,고구마,고구마,그대로
+nongjeongwon,297,3,양배추,양배추,그대로
+nongjeongwon,297,4,양파,양파,그대로
+nongjeongwon,297,5,흰떡,가래떡,같은 떡 — 가래떡
+nongjeongwon,297,6,깻잎,깻잎,그대로
+nongjeongwon,297,7,고추장,고추장,그대로
+nongjeongwon,297,8,고춧가루,고춧가루,그대로
+nongjeongwon,297,9,설탕,설탕,그대로
+nongjeongwon,297,10,간장,간장,그대로
+nongjeongwon,297,11,깨소금,깨소금,그대로
+nongjeongwon,297,12,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,297,13,참기름,참기름,그대로
+nongjeongwon,298,1,베이컨,베이컨,그대로
+nongjeongwon,298,2,샐러리,샐러리,그대로
+nongjeongwon,298,3,프랑크소시지,프랑크소시지,어휘없음 — 352종에 소시지 없음
+nongjeongwon,298,4,게맛살,게맛살,그대로
+nongjeongwon,298,5,팽이버섯,팽이버섯,그대로
+nongjeongwon,298,6,피망,피망,그대로
+nongjeongwon,298,7,흰떡,가래떡,같은 떡 — 가래떡
+nongjeongwon,298,8,마요네즈,마요네즈,그대로
+nongjeongwon,298,9,머스터드,머스터드,그대로
+nongjeongwon,298,10,간장,간장,그대로
+nongjeongwon,298,11,레몬즙,레몬,짜낸 즙은 원물
+nongjeongwon,299,1,밥,쌀,조리 단계 통합
+nongjeongwon,299,2,열무김치,열무김치,그대로
+nongjeongwon,299,3,쇠고기,소고기,표기 통일
+nongjeongwon,299,4,간장,간장,그대로
+nongjeongwon,299,5,설탕,설탕,그대로
+nongjeongwon,299,6,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,299,7,다진마늘,마늘,가공 상태 통합
+nongjeongwon,299,8,참기름,참기름,그대로
+nongjeongwon,299,9,고추장,고추장,그대로
+nongjeongwon,299,10,설탕,설탕,그대로
+nongjeongwon,299,11,마늘,마늘,그대로
+nongjeongwon,299,12,참기름,참기름,그대로
+nongjeongwon,299,13,열무김치,열무김치,그대로
+nongjeongwon,300,1,다시마,다시마,그대로
+nongjeongwon,300,2,맛살,게맛살,표기 통일
+nongjeongwon,300,3,당근,당근,그대로
+nongjeongwon,300,4,청고추,청고추,그대로
+nongjeongwon,300,5,실파,실파,그대로
+nongjeongwon,300,6,마늘,마늘,그대로
+nongjeongwon,300,7,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,300,8,청주,청주,그대로
+nongjeongwon,300,9,소금,소금,그대로
+nongjeongwon,300,10,후춧가루,후추,가공 상태 통합
+nongjeongwon,300,11,참기름,참기름,그대로
+nongjeongwon,300,12,식용유,식용유,그대로
+nongjeongwon,301,1,밥,쌀,조리 단계 통합
+nongjeongwon,301,2,당면,당면,그대로
+nongjeongwon,301,3,양파,양파,그대로
+nongjeongwon,301,4,쇠고기,소고기,표기 통일
+nongjeongwon,301,5,느타리버섯,느타리버섯,그대로
+nongjeongwon,301,6,팽이버섯,팽이버섯,그대로
+nongjeongwon,301,7,목이버섯,목이버섯,그대로
+nongjeongwon,301,8,당근,당근,그대로
+nongjeongwon,301,9,실파,실파,그대로
+nongjeongwon,301,10,햇살담은간장,간장,상품명 — 간장
+nongjeongwon,301,11,소금,소금,그대로
+nongjeongwon,301,12,후춧가루,후추,가공 상태 통합
+nongjeongwon,301,13,참기름,참기름,그대로
+nongjeongwon,301,14,깨소금,깨소금,그대로
+nongjeongwon,301,15,간장,간장,그대로
+nongjeongwon,301,16,설탕,설탕,그대로
+nongjeongwon,301,17,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,301,18,다진마늘,마늘,가공 상태 통합
+nongjeongwon,301,19,참기름,참기름,그대로
+nongjeongwon,302,1,강력분,강력분,그대로
+nongjeongwon,302,2,설탕,설탕,그대로
+nongjeongwon,302,3,소금,소금,그대로
+nongjeongwon,302,4,이스트,이스트,그대로
+nongjeongwon,302,5,버터,버터,그대로
+nongjeongwon,302,6,계란,계란,그대로
+nongjeongwon,302,7,물,물,그대로
+nongjeongwon,302,8,쑥,쑥,그대로
+nongjeongwon,303,1,깻잎,깻잎,그대로
+nongjeongwon,303,2,된장,된장,그대로
+nongjeongwon,303,3,소금,소금,그대로
+nongjeongwon,304,1,쌀국수,쌀국수,그대로
+nongjeongwon,304,2,쇠고기,소고기,표기 통일
+nongjeongwon,304,3,양파,양파,그대로
+nongjeongwon,304,4,새우,새우,그대로
+nongjeongwon,304,5,상추,상추,그대로
+nongjeongwon,304,6,레몬,레몬,그대로
+nongjeongwon,304,7,육수,육수,그대로
+nongjeongwon,304,8,간장,간장,그대로
+nongjeongwon,304,9,식초,식초,그대로
+nongjeongwon,304,10,설탕,설탕,그대로
+nongjeongwon,304,11,실파,실파,그대로
+nongjeongwon,304,12,다진고추,고추,가공 상태 통합
+nongjeongwon,304,13,소금,소금,그대로
+nongjeongwon,304,14,후추,후추,그대로
+nongjeongwon,304,15,다진마늘,마늘,가공 상태 통합
+nongjeongwon,304,16,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,305,1,아욱,아욱,그대로
+nongjeongwon,305,2,쌀뜨물,쌀뜨물,그대로
+nongjeongwon,305,3,된장,된장,그대로
+nongjeongwon,305,4,모시조개,모시조개,그대로
+nongjeongwon,305,5,멸치,멸치,그대로
+nongjeongwon,305,6,대파,대파,그대로
+nongjeongwon,305,7,마늘,마늘,그대로
+nongjeongwon,305,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,306,1,라면,라면,그대로
+nongjeongwon,306,2,떡,가래떡,수식 없는 떡은 가래떡
+nongjeongwon,306,3,어묵,어묵,그대로
+nongjeongwon,306,4,대파,대파,그대로
+nongjeongwon,306,5,마늘,마늘,그대로
+nongjeongwon,306,6,고추장,고추장,그대로
+nongjeongwon,306,7,설탕,설탕,그대로
+nongjeongwon,306,8,고춧가루,고춧가루,그대로
+nongjeongwon,307,1,고등어,고등어,그대로
+nongjeongwon,307,2,배추김치,배추김치,그대로
+nongjeongwon,307,3,물,물,그대로
+nongjeongwon,307,4,파,대파,수식 없는 파는 대파
+nongjeongwon,307,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,307,6,다진생강,생강,가공 상태 통합
+nongjeongwon,307,7,진간장,진간장,그대로
+nongjeongwon,307,8,고춧가루,고춧가루,그대로
+nongjeongwon,307,9,설탕,설탕,그대로
+nongjeongwon,308,1,쇠고기,소고기,표기 통일
+nongjeongwon,308,2,새우,새우,그대로
+nongjeongwon,308,3,해삼,해삼,어휘없음 — 352종에 해삼 없음
+nongjeongwon,308,4,표고버섯,표고버섯,그대로
+nongjeongwon,308,5,죽순,죽순,그대로
+nongjeongwon,308,6,부추,부추,그대로
+nongjeongwon,308,7,완두콩,완두콩,그대로
+nongjeongwon,308,8,대파,대파,그대로
+nongjeongwon,308,9,마늘,마늘,그대로
+nongjeongwon,308,10,생강,생강,그대로
+nongjeongwon,308,11,간장,간장,그대로
+nongjeongwon,308,12,굴소스,굴소스,그대로
+nongjeongwon,308,13,청주,청주,그대로
+nongjeongwon,308,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,308,15,참기름,참기름,그대로
+nongjeongwon,308,16,식용유,식용유,그대로
+nongjeongwon,308,17,물,물,그대로
+nongjeongwon,308,18,녹말,녹말,그대로
+nongjeongwon,309,1,바지락,바지락,그대로
+nongjeongwon,309,2,다진마늘,마늘,가공 상태 통합
+nongjeongwon,309,3,대파,대파,그대로
+nongjeongwon,309,4,마른고추,건고추,건조 구분
+nongjeongwon,309,5,청고추,청고추,그대로
+nongjeongwon,309,6,두반장,두반장,그대로
+nongjeongwon,309,7,설탕,설탕,그대로
+nongjeongwon,309,8,식용유,식용유,그대로
+nongjeongwon,310,1,가지,가지,그대로
+nongjeongwon,310,2,쇠고기,소고기,표기 통일
+nongjeongwon,310,3,청고추,청고추,그대로
+nongjeongwon,310,4,홍고추,홍고추,그대로
+nongjeongwon,310,5,대파,대파,그대로
+nongjeongwon,310,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,310,7,간장,간장,그대로
+nongjeongwon,310,8,청주,청주,그대로
+nongjeongwon,310,9,소금,소금,그대로
+nongjeongwon,310,10,설탕,설탕,그대로
+nongjeongwon,310,11,깨소금,깨소금,그대로
+nongjeongwon,310,12,참기름,참기름,그대로
+nongjeongwon,311,1,청국장,청국장,그대로
+nongjeongwon,311,2,팽이버섯,팽이버섯,그대로
+nongjeongwon,311,3,표고버섯,표고버섯,그대로
+nongjeongwon,311,4,양송이버섯,양송이버섯,그대로
+nongjeongwon,311,5,느타리버섯,느타리버섯,그대로
+nongjeongwon,311,6,호박,호박,그대로
+nongjeongwon,311,7,두부,두부,그대로
+nongjeongwon,311,8,대파,대파,그대로
+nongjeongwon,311,9,청고추,청고추,그대로
+nongjeongwon,311,10,다진마늘,마늘,가공 상태 통합
+nongjeongwon,311,11,쌀뜨물,쌀뜨물,그대로
+nongjeongwon,311,12,홍고추,홍고추,그대로
+nongjeongwon,312,1,밀가루,밀가루,그대로
+nongjeongwon,312,2,찹쌀가루,찹쌀가루,그대로
+nongjeongwon,312,3,계란,계란,그대로
+nongjeongwon,312,4,물,물,그대로
+nongjeongwon,312,5,부추,부추,그대로
+nongjeongwon,312,6,청고추,청고추,그대로
+nongjeongwon,312,7,오징어,오징어,그대로
+nongjeongwon,312,8,식용유,식용유,그대로
+nongjeongwon,313,1,쇠고기,소고기,표기 통일
+nongjeongwon,313,2,무순,무순,그대로
+nongjeongwon,313,3,양배추,양배추,그대로
+nongjeongwon,313,4,당근,당근,그대로
+nongjeongwon,313,5,맛술,맛술,그대로
+nongjeongwon,313,6,간장,간장,그대로
+nongjeongwon,313,7,설탕,설탕,그대로
+nongjeongwon,313,8,고추냉이,고추냉이,그대로
+nongjeongwon,313,9,간장,간장,그대로
+nongjeongwon,313,10,식초,식초,그대로
+nongjeongwon,313,11,물,물,그대로
+nongjeongwon,314,1,닭안심,닭고기,부위 통합
+nongjeongwon,314,2,표고버섯,건표고버섯,조리과정 '표고버섯은 물에 불려 곱게 채썬다'
+nongjeongwon,314,3,느타리버섯,느타리버섯,그대로
+nongjeongwon,314,4,팽이버섯,팽이버섯,그대로
+nongjeongwon,314,5,당근,당근,그대로
+nongjeongwon,314,6,청고추,청고추,그대로
+nongjeongwon,314,7,계란,계란,그대로
+nongjeongwon,314,8,간장,간장,그대로
+nongjeongwon,314,9,설탕,설탕,그대로
+nongjeongwon,314,10,청주,청주,그대로
+nongjeongwon,314,11,소금,소금,그대로
+nongjeongwon,314,12,후춧가루,후추,가공 상태 통합
+nongjeongwon,314,13,계란노른자,계란노른자,그대로
+nongjeongwon,315,1,쇠고기,소고기,표기 통일
+nongjeongwon,315,2,새송이버섯,새송이버섯,그대로
+nongjeongwon,315,3,진간장,진간장,그대로
+nongjeongwon,315,4,설탕,설탕,그대로
+nongjeongwon,315,5,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,315,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,315,7,깨소금,깨소금,그대로
+nongjeongwon,315,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,315,9,참기름,참기름,그대로
+nongjeongwon,315,10,잣가루,잣,집에서 갈 수 있다 — 통합
+nongjeongwon,315,11,소금,소금,그대로
+nongjeongwon,316,1,돼지고기,돼지고기,그대로
+nongjeongwon,316,2,부추,부추,그대로
+nongjeongwon,316,3,대파,대파,그대로
+nongjeongwon,316,4,생강,생강,그대로
+nongjeongwon,316,5,간장,간장,그대로
+nongjeongwon,316,6,소금,소금,그대로
+nongjeongwon,316,7,참기름,참기름,그대로
+nongjeongwon,316,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,316,9,밀가루,밀가루,그대로
+nongjeongwon,317,1,쌀국수,쌀국수,그대로
+nongjeongwon,317,2,돼지고기,돼지고기,그대로
+nongjeongwon,317,3,숙주나물,숙주,표기 통일
+nongjeongwon,317,4,청고추,청고추,그대로
+nongjeongwon,317,5,대파,대파,그대로
+nongjeongwon,317,6,마늘,마늘,그대로
+nongjeongwon,317,7,생강,생강,그대로
+nongjeongwon,317,8,굴소스,굴소스,그대로
+nongjeongwon,317,9,간장,간장,그대로
+nongjeongwon,317,10,설탕,설탕,그대로
+nongjeongwon,317,11,소금,소금,그대로
+nongjeongwon,317,12,후춧가루,후추,가공 상태 통합
+nongjeongwon,318,1,파스타,스파게티면,파스타면 표기 통합
+nongjeongwon,318,2,표고버섯,표고버섯,그대로
+nongjeongwon,318,3,느타리버섯,느타리버섯,그대로
+nongjeongwon,318,4,양송이버섯,양송이버섯,그대로
+nongjeongwon,318,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,318,6,파,대파,수식 없는 파는 대파
+nongjeongwon,318,7,화이트와인,화이트와인,그대로
+nongjeongwon,318,8,간장,간장,그대로
+nongjeongwon,318,9,올리브오일,올리브유,표기 통일
+nongjeongwon,319,1,닭봉,닭고기,부위 통합
+nongjeongwon,319,2,도라지,도라지,그대로
+nongjeongwon,319,3,대파,대파,그대로
+nongjeongwon,319,4,마늘,마늘,그대로
+nongjeongwon,319,5,생강,생강,그대로
+nongjeongwon,319,6,고춧가루,고춧가루,그대로
+nongjeongwon,319,7,닭육수,닭육수,그대로
+nongjeongwon,319,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,319,9,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,319,10,간장,간장,그대로
+nongjeongwon,319,11,참기름,참기름,그대로
+nongjeongwon,319,12,소금,소금,그대로
+nongjeongwon,319,13,고사리,고사리,그대로
+nongjeongwon,319,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,320,1,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,320,2,밥,쌀,조리 단계 통합
+nongjeongwon,320,3,감자,감자,그대로
+nongjeongwon,320,4,양파,양파,그대로
+nongjeongwon,320,5,햄,햄,그대로
+nongjeongwon,320,6,식용유,식용유,그대로
+nongjeongwon,320,7,소금,소금,그대로
+nongjeongwon,320,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,320,9,계란,계란,그대로
+nongjeongwon,321,1,오징어채,오징어채,"어휘없음 — 건조 오징어채, 오징어로 대체 불가"
+nongjeongwon,321,2,고추장,고추장,그대로
+nongjeongwon,321,3,설탕,설탕,그대로
+nongjeongwon,321,4,술,청주,조리용 술 — 청주
+nongjeongwon,321,5,식용유,식용유,그대로
+nongjeongwon,321,6,물엿,물엿,그대로
+nongjeongwon,321,7,참기름,참기름,그대로
+nongjeongwon,322,1,칼국수,국수,면류 세부 어휘 없음 — 국수로 통합
+nongjeongwon,322,2,바지락,바지락,그대로
+nongjeongwon,322,3,양파,양파,그대로
+nongjeongwon,322,4,애호박,애호박,그대로
+nongjeongwon,322,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,322,6,맛술,맛술,그대로
+nongjeongwon,322,7,청장,국간장,청장은 국간장의 다른 이름
+nongjeongwon,322,8,소금,소금,그대로
+nongjeongwon,322,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,323,1,도라지,도라지,그대로
+nongjeongwon,323,2,오이,오이,그대로
+nongjeongwon,323,3,오징어,오징어,그대로
+nongjeongwon,323,4,고추장,고추장,그대로
+nongjeongwon,323,5,고춧가루,고춧가루,그대로
+nongjeongwon,323,6,간장,간장,그대로
+nongjeongwon,323,7,식초,식초,그대로
+nongjeongwon,323,8,물엿,물엿,그대로
+nongjeongwon,323,9,참기름,참기름,그대로
+nongjeongwon,323,10,깨소금,깨소금,그대로
+nongjeongwon,323,11,소금,소금,그대로
+nongjeongwon,324,1,애호박,애호박,그대로
+nongjeongwon,324,2,식용유,식용유,그대로
+nongjeongwon,324,3,청피망,피망,색상 표기 통합
+nongjeongwon,324,4,파,대파,수식 없는 파는 대파
+nongjeongwon,324,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,324,6,고춧가루,고춧가루,그대로
+nongjeongwon,324,7,간장,간장,그대로
+nongjeongwon,324,8,새우젓국,새우젓,가공 상태 통합
+nongjeongwon,324,9,참기름,참기름,그대로
+nongjeongwon,324,10,깨소금,깨소금,그대로
+nongjeongwon,324,11,참기름,참기름,그대로
+nongjeongwon,324,12,홍피망,피망,색상 표기 통합
+nongjeongwon,325,1,찹쌀,찹쌀,그대로
+nongjeongwon,325,2,양송이버섯,양송이버섯,그대로
+nongjeongwon,325,3,호박,호박,그대로
+nongjeongwon,325,4,실파,실파,그대로
+nongjeongwon,325,5,당근,당근,그대로
+nongjeongwon,325,6,깻잎,깻잎,그대로
+nongjeongwon,325,7,양파,양파,그대로
+nongjeongwon,325,8,참기름,참기름,그대로
+nongjeongwon,325,9,물,물,그대로
+nongjeongwon,325,10,깨소금,깨소금,그대로
+nongjeongwon,325,11,소금,소금,그대로
+nongjeongwon,326,1,미역,미역,그대로
+nongjeongwon,326,2,홍합,홍합,그대로
+nongjeongwon,326,3,소금,소금,그대로
+nongjeongwon,326,4,참기름,참기름,그대로
+nongjeongwon,326,5,간장,간장,그대로
+nongjeongwon,326,6,물,물,그대로
+nongjeongwon,326,7,후춧가루,후추,가공 상태 통합
+nongjeongwon,327,1,밥,쌀,조리 단계 통합
+nongjeongwon,327,2,오징어,오징어,그대로
+nongjeongwon,327,3,양파,양파,그대로
+nongjeongwon,327,4,피망,피망,그대로
+nongjeongwon,327,5,실파,실파,그대로
+nongjeongwon,327,6,식용유,식용유,그대로
+nongjeongwon,327,7,물,물,그대로
+nongjeongwon,327,8,고추장,고추장,그대로
+nongjeongwon,327,9,두반장,두반장,그대로
+nongjeongwon,327,10,설탕,설탕,그대로
+nongjeongwon,327,11,깨소금,깨소금,그대로
+nongjeongwon,327,12,소금,소금,그대로
+nongjeongwon,327,13,후춧가루,후추,가공 상태 통합
+nongjeongwon,328,1,완두콩,완두콩,그대로
+nongjeongwon,328,2,옥수수,옥수수,그대로
+nongjeongwon,328,3,당근,당근,그대로
+nongjeongwon,328,4,감자,감자,그대로
+nongjeongwon,328,5,껍질콩,껍질콩,어휘없음 — 352종에 그린빈 없음
+nongjeongwon,328,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,328,7,간장,간장,그대로
+nongjeongwon,328,8,굴소스,굴소스,그대로
+nongjeongwon,328,9,식용유,식용유,그대로
+nongjeongwon,328,10,소금,소금,그대로
+nongjeongwon,328,11,후춧가루,후추,가공 상태 통합
+nongjeongwon,328,12,참기름,참기름,그대로
+nongjeongwon,329,1,대구,대구살,어휘의 대구 항목은 대구살
+nongjeongwon,329,2,무,무,그대로
+nongjeongwon,329,3,콩나물,콩나물,그대로
+nongjeongwon,329,4,홍고추,홍고추,그대로
+nongjeongwon,329,5,청고추,청고추,그대로
+nongjeongwon,329,6,미나리,미나리,그대로
+nongjeongwon,329,7,팽이버섯,팽이버섯,그대로
+nongjeongwon,329,8,고춧가루,고춧가루,그대로
+nongjeongwon,329,9,고추장,고추장,그대로
+nongjeongwon,329,10,소금,소금,그대로
+nongjeongwon,329,11,후춧가루,후추,가공 상태 통합
+nongjeongwon,329,12,미림,미림,그대로
+nongjeongwon,330,1,쇠고기,소고기,표기 통일
+nongjeongwon,330,2,찹쌀가루,찹쌀가루,그대로
+nongjeongwon,330,3,간장,간장,그대로
+nongjeongwon,330,4,후춧가루,후추,가공 상태 통합
+nongjeongwon,330,5,참기름,참기름,그대로
+nongjeongwon,330,6,기름,식용유,수식 없는 기름 — 식용유
+nongjeongwon,330,7,겨자,겨자,그대로
+nongjeongwon,330,8,식초,식초,그대로
+nongjeongwon,330,9,설탕,설탕,그대로
+nongjeongwon,331,1,고추,고추,그대로
+nongjeongwon,331,2,찹쌀가루,찹쌀가루,그대로
+nongjeongwon,331,3,식용유,식용유,그대로
+nongjeongwon,331,4,소금,소금,그대로
+nongjeongwon,331,5,설탕,설탕,그대로
+nongjeongwon,332,1,김,김,그대로
+nongjeongwon,332,2,오징어,오징어,그대로
+nongjeongwon,332,3,무,무,그대로
+nongjeongwon,332,4,고춧가루,고춧가루,그대로
+nongjeongwon,332,5,설탕,설탕,그대로
+nongjeongwon,332,6,식초,식초,그대로
+nongjeongwon,332,7,까나리액젓,까나리액젓,그대로
+nongjeongwon,332,8,참기름,참기름,그대로
+nongjeongwon,332,9,깨소금,깨소금,그대로
+nongjeongwon,332,10,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,332,11,다진마늘,마늘,가공 상태 통합
+nongjeongwon,332,12,밥,쌀,조리 단계 통합
+nongjeongwon,333,1,닭다리,닭고기,부위 통합
+nongjeongwon,333,2,대파,대파,그대로
+nongjeongwon,333,3,생강,생강,그대로
+nongjeongwon,333,4,맛술,맛술,그대로
+nongjeongwon,333,5,물,물,그대로
+nongjeongwon,333,6,소면,국수,굵기 표기 통합
+nongjeongwon,333,7,중국부추,부추,품종 표기 통합
+nongjeongwon,333,8,당근,당근,그대로
+nongjeongwon,333,9,간장,간장,그대로
+nongjeongwon,333,10,소금,소금,그대로
+nongjeongwon,333,11,후춧가루,후추,가공 상태 통합
+nongjeongwon,334,1,감자,감자,그대로
+nongjeongwon,334,2,양파,양파,그대로
+nongjeongwon,334,3,대파,대파,그대로
+nongjeongwon,334,4,버터,버터,그대로
+nongjeongwon,334,5,육수,육수,그대로
+nongjeongwon,334,6,계란노른자,계란노른자,그대로
+nongjeongwon,334,7,생크림,생크림,그대로
+nongjeongwon,334,8,소금,소금,그대로
+nongjeongwon,334,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,335,1,바게트,바게트,그대로
+nongjeongwon,335,2,버터,버터,그대로
+nongjeongwon,335,3,마늘,마늘,그대로
+nongjeongwon,335,4,파슬리가루,파슬리가루,그대로
+nongjeongwon,336,1,닭살,닭고기,부위 통합
+nongjeongwon,336,2,닭육수,닭육수,그대로
+nongjeongwon,336,3,죽순,죽순,그대로
+nongjeongwon,336,4,당근,당근,그대로
+nongjeongwon,336,5,실파,실파,그대로
+nongjeongwon,336,6,계란,계란,그대로
+nongjeongwon,336,7,표고버섯,표고버섯,그대로
+nongjeongwon,336,8,소금,소금,그대로
+nongjeongwon,336,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,336,10,참기름,참기름,그대로
+nongjeongwon,336,11,녹말,녹말,그대로
+nongjeongwon,337,1,계란,계란,그대로
+nongjeongwon,337,2,시금치,시금치,그대로
+nongjeongwon,337,3,당근,당근,그대로
+nongjeongwon,337,4,옥수수통조림,옥수수,포장 형태 통합
+nongjeongwon,337,5,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,337,6,소금,소금,그대로
+nongjeongwon,337,7,후춧가루,후추,가공 상태 통합
+nongjeongwon,337,8,설탕,설탕,그대로
+nongjeongwon,337,9,물,물,그대로
+nongjeongwon,337,10,청정원맛선생,청정원맛선생,어휘없음 — 브랜드 조미료 상품명
+nongjeongwon,338,1,밥,쌀,조리 단계 통합
+nongjeongwon,338,2,보리,보리,그대로
+nongjeongwon,338,3,콩나물,콩나물,그대로
+nongjeongwon,338,4,오이,오이,그대로
+nongjeongwon,338,5,당근,당근,그대로
+nongjeongwon,338,6,다진쇠고기,소고기,가공 상태 통합·표기 통일
+nongjeongwon,338,7,소금,소금,그대로
+nongjeongwon,339,1,찹쌀,찹쌀,그대로
+nongjeongwon,339,2,소금,소금,그대로
+nongjeongwon,339,3,콩,콩,그대로
+nongjeongwon,340,1,상추,상추,그대로
+nongjeongwon,340,2,들깻잎,깻잎,표기 통일
+nongjeongwon,340,3,쑥갓,쑥갓,그대로
+nongjeongwon,340,4,케일,케일,그대로
+nongjeongwon,340,5,고춧가루,고춧가루,그대로
+nongjeongwon,340,6,설탕,설탕,그대로
+nongjeongwon,340,7,식초,식초,그대로
+nongjeongwon,340,8,조림간장,간장,용도 표기 제거
+nongjeongwon,340,9,참기름,참기름,그대로
+nongjeongwon,340,10,깨소금,깨소금,그대로
+nongjeongwon,341,1,호박,호박,그대로
+nongjeongwon,341,2,양파,양파,그대로
+nongjeongwon,341,3,두부,두부,그대로
+nongjeongwon,341,4,대파,대파,그대로
+nongjeongwon,341,5,홍고추,홍고추,그대로
+nongjeongwon,341,6,된장,된장,그대로
+nongjeongwon,341,7,국멸치,멸치,용도 표기 제거
+nongjeongwon,341,8,소금,소금,그대로
+nongjeongwon,342,1,꽁치,꽁치,그대로
+nongjeongwon,342,2,소금,소금,그대로
+nongjeongwon,342,3,와사비,고추냉이,표기 통일
+nongjeongwon,342,4,레몬,레몬,그대로
+nongjeongwon,342,5,간장,간장,그대로
+nongjeongwon,343,1,오징어,오징어,그대로
+nongjeongwon,343,2,소금,소금,그대로
+nongjeongwon,343,3,고춧가루,고춧가루,그대로
+nongjeongwon,343,4,다진마늘,마늘,가공 상태 통합
+nongjeongwon,343,5,다진생강,생강,가공 상태 통합
+nongjeongwon,343,6,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,344,1,무,무,그대로
+nongjeongwon,344,2,고춧가루,고춧가루,그대로
+nongjeongwon,344,3,식초,식초,그대로
+nongjeongwon,344,4,설탕,설탕,그대로
+nongjeongwon,344,5,소금,소금,그대로
+nongjeongwon,344,6,참기름,참기름,그대로
+nongjeongwon,344,7,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,344,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,344,9,깨소금,깨소금,그대로
+nongjeongwon,345,1,다시마,다시마,그대로
+nongjeongwon,345,2,새우,새우,그대로
+nongjeongwon,345,3,바지락,바지락,그대로
+nongjeongwon,345,4,호박,호박,그대로
+nongjeongwon,345,5,감자,감자,그대로
+nongjeongwon,345,6,대파,대파,그대로
+nongjeongwon,345,7,청고추,청고추,그대로
+nongjeongwon,345,8,간장,간장,그대로
+nongjeongwon,345,9,소금,소금,그대로
+nongjeongwon,345,10,참기름,참기름,그대로
+nongjeongwon,345,11,칼국수,국수,면류 세부 어휘 없음 — 국수로 통합
+nongjeongwon,346,1,쇠고기,소고기,표기 통일
+nongjeongwon,346,2,당근,당근,그대로
+nongjeongwon,346,3,감자,감자,그대로
+nongjeongwon,346,4,오이,오이,그대로
+nongjeongwon,346,5,밀가루,밀가루,그대로
+nongjeongwon,346,6,버터,버터,그대로
+nongjeongwon,346,7,육수,육수,그대로
+nongjeongwon,346,8,우스터소스,우스터소스,그대로
+nongjeongwon,346,9,토마토페스트,토마토페이스트,표기 통일
+nongjeongwon,346,10,소금,소금,그대로
+nongjeongwon,346,11,후춧가루,후추,가공 상태 통합
+nongjeongwon,346,12,레드와인,레드와인,그대로
+nongjeongwon,347,1,파래,파래,어휘없음 — 352종에 파래 없음
+nongjeongwon,347,2,당근,당근,그대로
+nongjeongwon,347,3,간장,간장,그대로
+nongjeongwon,347,4,설탕,설탕,그대로
+nongjeongwon,347,5,식초,식초,그대로
+nongjeongwon,347,6,참기름,참기름,그대로
+nongjeongwon,347,7,깨소금,깨소금,그대로
+nongjeongwon,348,1,단호박,단호박,그대로
+nongjeongwon,348,2,계란,계란,그대로
+nongjeongwon,348,3,밀가루,밀가루,그대로
+nongjeongwon,348,4,튀김가루,튀김가루,그대로
+nongjeongwon,348,5,식용유,식용유,그대로
+nongjeongwon,349,1,스파게티,스파게티면,표기 통일
+nongjeongwon,349,2,홍합,홍합,그대로
+nongjeongwon,349,3,오징어,오징어,그대로
+nongjeongwon,349,4,새우,새우,그대로
+nongjeongwon,349,5,양파,양파,그대로
+nongjeongwon,349,6,샐러리,샐러리,그대로
+nongjeongwon,349,7,양송이,양송이버섯,표기 통일
+nongjeongwon,349,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,349,9,홀토마토,홀토마토,그대로
+nongjeongwon,349,10,버터,버터,그대로
+nongjeongwon,349,11,밀가루,밀가루,그대로
+nongjeongwon,349,12,오레가노,오레가노,그대로
+nongjeongwon,349,13,올리브오일,올리브유,표기 통일
+nongjeongwon,349,14,파마산치즈,파마산치즈,그대로
+nongjeongwon,349,15,토마토,토마토,그대로
+nongjeongwon,349,16,후춧가루,후추,가공 상태 통합
+nongjeongwon,349,17,소금,소금,그대로
+nongjeongwon,350,1,라이스페이퍼,라이스페이퍼,그대로
+nongjeongwon,350,2,쌀국수,쌀국수,그대로
+nongjeongwon,350,3,오징어,오징어,그대로
+nongjeongwon,350,4,오이,오이,그대로
+nongjeongwon,350,5,양파,양파,그대로
+nongjeongwon,350,6,표고버섯,표고버섯,그대로
+nongjeongwon,350,7,키위,키위,그대로
+nongjeongwon,350,8,파인애플,파인애플,그대로
+nongjeongwon,350,9,간장,간장,그대로
+nongjeongwon,350,10,물,물,그대로
+nongjeongwon,350,11,청고추,청고추,그대로
+nongjeongwon,350,12,설탕,설탕,그대로
+nongjeongwon,350,13,깨소금,깨소금,그대로
+nongjeongwon,350,14,다진홍고추,홍고추,가공 상태 통합
+nongjeongwon,350,15,당근,당근,그대로
+nongjeongwon,350,16,식초,식초,그대로
+nongjeongwon,350,17,소금,소금,그대로
+nongjeongwon,351,1,무,무,그대로
+nongjeongwon,351,2,소금,소금,그대로
+nongjeongwon,351,3,깨소금,깨소금,그대로
+nongjeongwon,351,4,식용유,식용유,그대로
+nongjeongwon,351,5,참기름,참기름,그대로
+nongjeongwon,352,1,고등어,고등어,그대로
+nongjeongwon,352,2,무,무,그대로
+nongjeongwon,352,3,대파,대파,그대로
+nongjeongwon,352,4,다시마국물,육수,우려낸 국물 — 육수로 통합
+nongjeongwon,352,5,설탕,설탕,그대로
+nongjeongwon,352,6,술,청주,조리용 술 — 청주
+nongjeongwon,352,7,간장,간장,그대로
+nongjeongwon,352,8,미림,미림,그대로
+nongjeongwon,352,9,된장,된장,그대로
+nongjeongwon,353,1,두부,두부,그대로
+nongjeongwon,353,2,양배추,양배추,그대로
+nongjeongwon,353,3,양파,양파,그대로
+nongjeongwon,353,4,대파,대파,그대로
+nongjeongwon,353,5,홍고추,홍고추,그대로
+nongjeongwon,353,6,풋고추,풋고추,그대로
+nongjeongwon,353,7,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,353,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,353,9,고춧가루,고춧가루,그대로
+nongjeongwon,353,10,간장,간장,그대로
+nongjeongwon,353,11,참기름,참기름,그대로
+nongjeongwon,353,12,깨소금,깨소금,그대로
+nongjeongwon,354,1,고구마,고구마,그대로
+nongjeongwon,354,2,생크림,생크림,그대로
+nongjeongwon,354,3,모짜렐라치즈,모짜렐라치즈,그대로
+nongjeongwon,354,4,소금,소금,그대로
+nongjeongwon,354,5,치즈가루,파마산치즈,파스타·그라탕용 가루치즈
+nongjeongwon,354,6,파슬리가루,파슬리가루,그대로
+nongjeongwon,355,1,쌀,쌀,그대로
+nongjeongwon,355,2,시금치,시금치,그대로
+nongjeongwon,355,3,일본된장,일본된장,그대로
+nongjeongwon,355,4,다시마,다시마,그대로
+nongjeongwon,355,5,쇠고기,소고기,표기 통일
+nongjeongwon,355,6,참기름,참기름,그대로
+nongjeongwon,355,7,가쓰오브시,가다랑어포,표기 통일
+nongjeongwon,356,1,돼지고기,돼지고기,그대로
+nongjeongwon,356,2,양파,양파,그대로
+nongjeongwon,356,3,당근,당근,그대로
+nongjeongwon,356,4,깻잎,깻잎,그대로
+nongjeongwon,356,5,양겨자,겨자,제품 형태 통합
+nongjeongwon,356,6,설탕,설탕,그대로
+nongjeongwon,356,7,소금,소금,그대로
+nongjeongwon,356,8,식초,식초,그대로
+nongjeongwon,356,9,통후추,통후추,그대로
+nongjeongwon,356,10,대파,대파,그대로
+nongjeongwon,357,1,페투치네,스파게티면,파스타면 표기 통합
+nongjeongwon,357,2,베이컨,베이컨,그대로
+nongjeongwon,357,3,양파,양파,그대로
+nongjeongwon,357,4,생크림,생크림,그대로
+nongjeongwon,357,5,계란노른자,계란노른자,그대로
+nongjeongwon,357,6,마늘,마늘,그대로
+nongjeongwon,357,7,올리브오일,올리브유,표기 통일
+nongjeongwon,357,8,소금,소금,그대로
+nongjeongwon,357,9,흰후추,후추,품종 판별 근거 없음 — 후추로 통합
+nongjeongwon,357,10,바질,바질,그대로
+nongjeongwon,357,11,오레가노,오레가노,그대로
+nongjeongwon,358,1,김,김,그대로
+nongjeongwon,358,2,계란노른자,계란노른자,그대로
+nongjeongwon,358,3,오보로,오보로,어휘없음 — 생선살 가루 가공품
+nongjeongwon,358,4,파슬리,파슬리,그대로
+nongjeongwon,358,5,밥,쌀,조리 단계 통합
+nongjeongwon,358,6,식초,식초,그대로
+nongjeongwon,358,7,설탕,설탕,그대로
+nongjeongwon,358,8,소금,소금,그대로
+nongjeongwon,359,1,게살,게살,그대로
+nongjeongwon,359,2,오이,오이,그대로
+nongjeongwon,359,3,아보카도,아보카도,그대로
+nongjeongwon,359,4,계란,계란,그대로
+nongjeongwon,359,5,박고지,박고지,어휘없음 — 352종에 박 없음
+nongjeongwon,359,6,날치알,날치알,그대로
+nongjeongwon,359,7,김,김,그대로
+nongjeongwon,359,8,통깨,통깨,그대로
+nongjeongwon,359,9,밥,쌀,조리 단계 통합
+nongjeongwon,359,10,식초,식초,그대로
+nongjeongwon,359,11,설탕,설탕,그대로
+nongjeongwon,359,12,소금,소금,그대로
+nongjeongwon,359,13,단무지,단무지,그대로
+nongjeongwon,359,14,초생강,생강,식초 절임 — 생강
+nongjeongwon,360,1,찹쌀,찹쌀,그대로
+nongjeongwon,360,2,팥,팥,그대로
+nongjeongwon,360,3,수수,수수,그대로
+nongjeongwon,360,4,쌀,쌀,그대로
+nongjeongwon,360,5,쇠고기,소고기,표기 통일
+nongjeongwon,360,6,김,김,그대로
+nongjeongwon,360,7,미나리,미나리,그대로
+nongjeongwon,360,8,간장,간장,그대로
+nongjeongwon,360,9,참기름,참기름,그대로
+nongjeongwon,360,10,후춧가루,후추,가공 상태 통합
+nongjeongwon,360,11,깨소금,깨소금,그대로
+nongjeongwon,360,12,조,조,그대로
+nongjeongwon,360,13,콩,콩,그대로
+nongjeongwon,361,1,무,무,그대로
+nongjeongwon,361,2,미나리,미나리,그대로
+nongjeongwon,361,3,배,배,그대로
+nongjeongwon,361,4,당근,당근,그대로
+nongjeongwon,361,5,생강,생강,그대로
+nongjeongwon,361,6,소금,소금,그대로
+nongjeongwon,361,7,설탕,설탕,그대로
+nongjeongwon,361,8,식초,식초,그대로
+nongjeongwon,362,1,찹쌀가루,찹쌀가루,그대로
+nongjeongwon,362,2,소금,소금,그대로
+nongjeongwon,362,3,대추,대추,그대로
+nongjeongwon,362,4,쑥갓,쑥갓,그대로
+nongjeongwon,362,5,식용유,식용유,그대로
+nongjeongwon,362,6,설탕,설탕,그대로
+nongjeongwon,362,7,물,물,그대로
+nongjeongwon,363,1,냉동만두,냉동만두,어휘없음 — 완제 만두
+nongjeongwon,363,2,양상추,양상추,그대로
+nongjeongwon,363,3,오이,오이,그대로
+nongjeongwon,363,4,양파,양파,그대로
+nongjeongwon,363,5,올리브,올리브,판별불가 — 흑/녹 판별 근거 없음
+nongjeongwon,363,6,토마토,토마토,그대로
+nongjeongwon,363,7,머스터드,머스터드,그대로
+nongjeongwon,363,8,꿀,꿀,그대로
+nongjeongwon,363,9,식초,식초,그대로
+nongjeongwon,363,10,마요네즈,마요네즈,그대로
+nongjeongwon,364,1,콩나물,콩나물,그대로
+nongjeongwon,364,2,미나리,미나리,그대로
+nongjeongwon,364,3,고춧가루,고춧가루,그대로
+nongjeongwon,364,4,소금,소금,그대로
+nongjeongwon,364,5,참기름,참기름,그대로
+nongjeongwon,364,6,깨소금,깨소금,그대로
+nongjeongwon,364,7,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,364,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,365,1,밥,쌀,조리 단계 통합
+nongjeongwon,365,2,쇠고기,소고기,표기 통일
+nongjeongwon,365,3,양파,양파,그대로
+nongjeongwon,365,4,미나리,미나리,그대로
+nongjeongwon,365,5,팽이버섯,팽이버섯,그대로
+nongjeongwon,365,6,계란,계란,그대로
+nongjeongwon,365,7,가쓰오브시국물,육수,우려낸 국물 — 육수로 통합
+nongjeongwon,365,8,간장,간장,그대로
+nongjeongwon,365,9,설탕,설탕,그대로
+nongjeongwon,365,10,미림,미림,그대로
+nongjeongwon,366,1,연어알,연어알,어휘없음 — 연어알 항목 없음
+nongjeongwon,366,2,밥,쌀,조리 단계 통합
+nongjeongwon,366,3,와사비,고추냉이,표기 통일
+nongjeongwon,366,4,김,김,그대로
+nongjeongwon,366,5,식초,식초,그대로
+nongjeongwon,366,6,설탕,설탕,그대로
+nongjeongwon,366,7,소금,소금,그대로
+nongjeongwon,367,1,새우,새우,그대로
+nongjeongwon,367,2,녹말,녹말,그대로
+nongjeongwon,367,3,계란,계란,그대로
+nongjeongwon,367,4,식용유,식용유,그대로
+nongjeongwon,367,5,양파,양파,그대로
+nongjeongwon,367,6,마늘,마늘,그대로
+nongjeongwon,367,7,청고추,청고추,그대로
+nongjeongwon,367,8,홍고추,홍고추,그대로
+nongjeongwon,367,9,대파,대파,그대로
+nongjeongwon,367,10,생강,생강,그대로
+nongjeongwon,367,11,간장,간장,그대로
+nongjeongwon,367,12,식초,식초,그대로
+nongjeongwon,367,13,육수,육수,그대로
+nongjeongwon,367,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,367,15,참기름,참기름,그대로
+nongjeongwon,368,1,게살,게살,그대로
+nongjeongwon,368,2,새우,새우,그대로
+nongjeongwon,368,3,두부,두부,그대로
+nongjeongwon,368,4,흰살생선,흰살생선,판별불가 — 어종 미상
+nongjeongwon,368,5,오징어,오징어,그대로
+nongjeongwon,368,6,전분,전분,그대로
+nongjeongwon,368,7,육수,육수,그대로
+nongjeongwon,368,8,계란흰자,계란흰자,그대로
+nongjeongwon,368,9,소금,소금,그대로
+nongjeongwon,368,10,정종,청주,같은 물건 — 동시 등장 0건
+nongjeongwon,368,11,참기름,참기름,그대로
+nongjeongwon,368,12,미원,미원,어휘없음 — 브랜드 조미료 상품명
+nongjeongwon,369,1,쇠고기스톡,육수,우려낸 국물 — 육수로 통합
+nongjeongwon,369,2,토마토페이스트,토마토페이스트,그대로
+nongjeongwon,369,3,버터,버터,그대로
+nongjeongwon,369,4,당근,당근,그대로
+nongjeongwon,369,5,양파,양파,그대로
+nongjeongwon,369,6,샐러리,샐러리,그대로
+nongjeongwon,369,7,피망,피망,그대로
+nongjeongwon,369,8,무,무,그대로
+nongjeongwon,369,9,파슬리가루,파슬리가루,그대로
+nongjeongwon,370,1,쇠고기,소고기,표기 통일
+nongjeongwon,370,2,배추,배추,그대로
+nongjeongwon,370,3,당근,당근,그대로
+nongjeongwon,370,4,무,무,그대로
+nongjeongwon,370,5,팽이버섯,팽이버섯,그대로
+nongjeongwon,370,6,표고버섯,표고버섯,그대로
+nongjeongwon,370,7,두부,두부,그대로
+nongjeongwon,370,8,다시마,다시마,그대로
+nongjeongwon,370,9,국물용멸치,멸치,용도 표기 제거
+nongjeongwon,370,10,대파,대파,그대로
+nongjeongwon,370,11,가래떡,가래떡,그대로
+nongjeongwon,370,12,죽순,죽순,그대로
+nongjeongwon,370,13,쑥갓,쑥갓,그대로
+nongjeongwon,371,1,메밀국수,메밀면,표기 통일
+nongjeongwon,371,2,김,김,그대로
+nongjeongwon,371,3,와사비,고추냉이,표기 통일
+nongjeongwon,371,4,대파,대파,그대로
+nongjeongwon,371,5,진간장,진간장,그대로
+nongjeongwon,371,6,조미술,맛술,표기 통일
+nongjeongwon,371,7,가쓰오브시국물,육수,우려낸 국물 — 육수로 통합
+nongjeongwon,371,8,설탕,설탕,그대로
+nongjeongwon,372,1,쇠고기,소고기,표기 통일
+nongjeongwon,372,2,느타리버섯,느타리버섯,그대로
+nongjeongwon,372,3,표고버섯,표고버섯,그대로
+nongjeongwon,372,4,팽이버섯,팽이버섯,그대로
+nongjeongwon,372,5,실파,실파,그대로
+nongjeongwon,372,6,다시마국물,육수,우려낸 국물 — 육수로 통합
+nongjeongwon,372,7,간장,간장,그대로
+nongjeongwon,372,8,설탕,설탕,그대로
+nongjeongwon,372,9,미림,미림,그대로
+nongjeongwon,372,10,계란,계란,그대로
+nongjeongwon,373,1,꽃게,꽃게,그대로
+nongjeongwon,373,2,바지락,바지락,그대로
+nongjeongwon,373,3,맛살조개,조개,맛조개 — 상위 조개로 통합
+nongjeongwon,373,4,오징어,오징어,그대로
+nongjeongwon,373,5,애호박,애호박,그대로
+nongjeongwon,373,6,무,무,그대로
+nongjeongwon,373,7,팽이버섯,팽이버섯,그대로
+nongjeongwon,373,8,홍고추,홍고추,그대로
+nongjeongwon,373,9,대파,대파,그대로
+nongjeongwon,373,10,고추장,고추장,그대로
+nongjeongwon,373,11,고춧가루,고춧가루,그대로
+nongjeongwon,373,12,마늘,마늘,그대로
+nongjeongwon,373,13,국간장,국간장,그대로
+nongjeongwon,373,14,생강,생강,그대로
+nongjeongwon,373,15,소금,소금,그대로
+nongjeongwon,373,16,후춧가루,후추,가공 상태 통합
+nongjeongwon,373,17,청고추,청고추,그대로
+nongjeongwon,374,1,해초,해초,판별불가 — 종류 미상의 해조 혼합
+nongjeongwon,374,2,미역,미역,그대로
+nongjeongwon,374,3,오징어,오징어,그대로
+nongjeongwon,374,4,새우,새우,그대로
+nongjeongwon,374,5,간장,간장,그대로
+nongjeongwon,374,6,식용유,식용유,그대로
+nongjeongwon,374,7,식초,식초,그대로
+nongjeongwon,374,8,양파,양파,그대로
+nongjeongwon,374,9,당근,당근,그대로
+nongjeongwon,374,10,사과,사과,그대로
+nongjeongwon,374,11,마늘,마늘,그대로
+nongjeongwon,374,12,레몬,레몬,그대로
+nongjeongwon,374,13,흰후춧가루,후추,품종 판별 근거 없음 — 후추로 통합
+nongjeongwon,375,1,감자,감자,그대로
+nongjeongwon,375,2,양파,양파,그대로
+nongjeongwon,375,3,부추,부추,그대로
+nongjeongwon,375,4,밀가루,밀가루,그대로
+nongjeongwon,375,5,물,물,그대로
+nongjeongwon,375,6,소금,소금,그대로
+nongjeongwon,375,7,식용유,식용유,그대로
+nongjeongwon,375,8,깻잎,깻잎,그대로
+nongjeongwon,375,9,쇠고기,소고기,표기 통일
+nongjeongwon,375,10,두부,두부,그대로
+nongjeongwon,375,11,표고버섯,표고버섯,그대로
+nongjeongwon,375,12,계란,계란,그대로
+nongjeongwon,375,13,간장,간장,그대로
+nongjeongwon,375,14,설탕,설탕,그대로
+nongjeongwon,375,15,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,375,16,다진마늘,마늘,가공 상태 통합
+nongjeongwon,375,17,참기름,참기름,그대로
+nongjeongwon,376,1,장어,장어,그대로
+nongjeongwon,376,2,초생강,생강,식초 절임 — 생강
+nongjeongwon,376,3,산초가루,산초가루,어휘없음 — 352종에 산초 없음
+nongjeongwon,376,4,밥,쌀,조리 단계 통합
+nongjeongwon,376,5,장어대리,장어,부위 통합
+nongjeongwon,376,6,진간장,진간장,그대로
+nongjeongwon,376,7,정종,청주,같은 물건 — 동시 등장 0건
+nongjeongwon,376,8,설탕,설탕,그대로
+nongjeongwon,376,9,미림,미림,그대로
+nongjeongwon,376,10,장어뼈,장어,부위 통합
+nongjeongwon,377,1,장어,장어,그대로
+nongjeongwon,377,2,계란,계란,그대로
+nongjeongwon,377,3,소금,소금,그대로
+nongjeongwon,377,4,설탕,설탕,그대로
+nongjeongwon,377,5,미림,미림,그대로
+nongjeongwon,377,6,다시마,다시마,그대로
+nongjeongwon,377,7,식용유,식용유,그대로
+nongjeongwon,378,1,오징어,오징어,그대로
+nongjeongwon,378,2,새우,새우,그대로
+nongjeongwon,378,3,홍합,홍합,그대로
+nongjeongwon,378,4,모시조개,모시조개,그대로
+nongjeongwon,378,5,동태살,동태살,어휘없음 — 생물 명태 항목 없음(북어·황태는 건조품)
+nongjeongwon,378,6,꼴뚜기,꼴뚜기,어휘없음 — 352종에 꼴뚜기 없음
+nongjeongwon,378,7,마늘,마늘,그대로
+nongjeongwon,378,8,양파,양파,그대로
+nongjeongwon,378,9,당근,당근,그대로
+nongjeongwon,378,10,샐러리,샐러리,그대로
+nongjeongwon,378,11,스파게티,스파게티면,표기 통일
+nongjeongwon,378,12,토마토,토마토,그대로
+nongjeongwon,378,13,토마토페이스트,토마토페이스트,그대로
+nongjeongwon,378,14,육수,육수,그대로
+nongjeongwon,378,15,월계수잎,월계수잎,그대로
+nongjeongwon,378,16,소금,소금,그대로
+nongjeongwon,378,17,후춧가루,후추,가공 상태 통합
+nongjeongwon,378,18,올리브오일,올리브유,표기 통일
+nongjeongwon,378,19,파마산치즈,파마산치즈,그대로
+nongjeongwon,378,20,바질,바질,그대로
+nongjeongwon,379,1,돼지고기,돼지고기,그대로
+nongjeongwon,379,2,밀가루,밀가루,그대로
+nongjeongwon,379,3,우유,우유,그대로
+nongjeongwon,379,4,빵가루,빵가루,그대로
+nongjeongwon,379,5,계란,계란,그대로
+nongjeongwon,379,6,정종,청주,같은 물건 — 동시 등장 0건
+nongjeongwon,379,7,샐러리,샐러리,그대로
+nongjeongwon,379,8,돈까스소스,돈까스소스,어휘없음 — 352종에 돈가스소스 없음
+nongjeongwon,379,9,우스터소스,우스터소스,그대로
+nongjeongwon,379,10,토마토케첩,토마토케첩,그대로
+nongjeongwon,379,11,버터,버터,그대로
+nongjeongwon,379,12,꿀,꿀,그대로
+nongjeongwon,379,13,미림,미림,그대로
+nongjeongwon,379,14,사과,사과,그대로
+nongjeongwon,379,15,양파,양파,그대로
+nongjeongwon,379,16,바나나,바나나,그대로
+nongjeongwon,379,17,타바스코,타바스코,어휘없음 — 352종에 타바스코 없음
+nongjeongwon,379,18,겨자,겨자,그대로
+nongjeongwon,379,19,밥,쌀,조리 단계 통합
+nongjeongwon,379,20,마늘,마늘,그대로
+nongjeongwon,380,1,양배추,양배추,그대로
+nongjeongwon,380,2,양파,양파,그대로
+nongjeongwon,380,3,숙주나물,숙주,표기 통일
+nongjeongwon,380,4,표고버섯,표고버섯,그대로
+nongjeongwon,380,5,피망,피망,그대로
+nongjeongwon,380,6,팽이버섯,팽이버섯,그대로
+nongjeongwon,380,7,마늘,마늘,그대로
+nongjeongwon,380,8,우동면,우동면,그대로
+nongjeongwon,380,9,굴소스,굴소스,그대로
+nongjeongwon,380,10,핫소스,핫소스,어휘없음 — 352종에 핫소스 없음
+nongjeongwon,380,11,간장,간장,그대로
+nongjeongwon,380,12,청주,청주,그대로
+nongjeongwon,380,13,참기름,참기름,그대로
+nongjeongwon,380,14,햄,햄,그대로
+nongjeongwon,380,15,죽순,죽순,그대로
+nongjeongwon,380,16,대파,대파,그대로
+nongjeongwon,380,17,식용유,식용유,그대로
+nongjeongwon,380,18,토마토케첩,토마토케첩,그대로
+nongjeongwon,380,19,설탕,설탕,그대로
+nongjeongwon,380,20,후춧가루,후추,가공 상태 통합
+nongjeongwon,381,1,오징어,오징어,그대로
+nongjeongwon,381,2,돼지고기,돼지고기,그대로
+nongjeongwon,381,3,옥수수통조림,옥수수,포장 형태 통합
+nongjeongwon,381,4,양파,양파,그대로
+nongjeongwon,381,5,실파,실파,그대로
+nongjeongwon,381,6,고추장,고추장,그대로
+nongjeongwon,381,7,미림,미림,그대로
+nongjeongwon,381,8,설탕,설탕,그대로
+nongjeongwon,381,9,다진마늘,마늘,가공 상태 통합
+nongjeongwon,381,10,다진생강,생강,가공 상태 통합
+nongjeongwon,381,11,물엿,물엿,그대로
+nongjeongwon,381,12,참기름,참기름,그대로
+nongjeongwon,381,13,청고추,청고추,그대로
+nongjeongwon,381,14,홍고추,홍고추,그대로
+nongjeongwon,382,1,쌀,쌀,그대로
+nongjeongwon,382,2,물,물,그대로
+nongjeongwon,382,3,대추,대추,그대로
+nongjeongwon,382,4,밤,밤,그대로
+nongjeongwon,382,5,은행,은행,그대로
+nongjeongwon,382,6,느타리버섯,느타리버섯,그대로
+nongjeongwon,382,7,스위트콘,옥수수,제품 표기 통합
+nongjeongwon,382,8,소금,소금,그대로
+nongjeongwon,383,1,밥,쌀,조리 단계 통합
+nongjeongwon,383,2,두부,두부,그대로
+nongjeongwon,383,3,돼지고기,돼지고기,그대로
+nongjeongwon,383,4,청고추,청고추,그대로
+nongjeongwon,383,5,대파,대파,그대로
+nongjeongwon,383,6,다진마늘,마늘,가공 상태 통합
+nongjeongwon,383,7,다진생강,생강,가공 상태 통합
+nongjeongwon,383,8,두반장,두반장,그대로
+nongjeongwon,383,9,고추기름,고추기름,그대로
+nongjeongwon,383,10,간장,간장,그대로
+nongjeongwon,383,11,맛술,맛술,그대로
+nongjeongwon,383,12,녹말물,녹말가루,물에 푼 것은 가공 상태
+nongjeongwon,383,13,설탕,설탕,그대로
+nongjeongwon,383,14,홍고추,홍고추,그대로
+nongjeongwon,383,15,참기름,참기름,그대로
+nongjeongwon,384,1,흰콩,콩,색상 표기 통합
+nongjeongwon,384,2,물,물,그대로
+nongjeongwon,384,3,간수,간수,어휘없음 — 두부 응고제
+nongjeongwon,384,4,소금,소금,그대로
+nongjeongwon,385,1,우묵,우묵,어휘없음 — 묵은 청포묵만 존재
+nongjeongwon,385,2,오이,오이,그대로
+nongjeongwon,385,3,다시마,다시마,그대로
+nongjeongwon,385,4,멸치,멸치,그대로
+nongjeongwon,385,5,간장,간장,그대로
+nongjeongwon,385,6,참기름,참기름,그대로
+nongjeongwon,385,7,깨소금,깨소금,그대로
+nongjeongwon,385,8,고춧가루,고춧가루,그대로
+nongjeongwon,385,9,설탕,설탕,그대로
+nongjeongwon,385,10,다진마늘,마늘,가공 상태 통합
+nongjeongwon,385,11,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,386,1,표고버섯,표고버섯,그대로
+nongjeongwon,386,2,느타리버섯,느타리버섯,그대로
+nongjeongwon,386,3,송이버섯,송이버섯,어휘없음 — 352종에 송이버섯 없음
+nongjeongwon,386,4,양파,양파,그대로
+nongjeongwon,386,5,감자,감자,그대로
+nongjeongwon,386,6,호박,호박,그대로
+nongjeongwon,386,7,쑥갓,쑥갓,그대로
+nongjeongwon,386,8,쇠고기,소고기,표기 통일
+nongjeongwon,386,9,칼국수,국수,면류 세부 어휘 없음 — 국수로 통합
+nongjeongwon,386,10,국간장,국간장,그대로
+nongjeongwon,386,11,고춧가루,고춧가루,그대로
+nongjeongwon,386,12,마늘,마늘,그대로
+nongjeongwon,386,13,소금,소금,그대로
+nongjeongwon,386,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,387,1,밀가루,밀가루,그대로
+nongjeongwon,387,2,쌀가루,쌀가루,그대로
+nongjeongwon,387,3,계란,계란,그대로
+nongjeongwon,387,4,실파,실파,그대로
+nongjeongwon,387,5,쇠고기,소고기,표기 통일
+nongjeongwon,387,6,굴,굴,그대로
+nongjeongwon,387,7,홍합,홍합,그대로
+nongjeongwon,387,8,조갯살,조개,부위 통합
+nongjeongwon,387,9,잔새우,새우,크기 표기 제거
+nongjeongwon,387,10,다진마늘,마늘,가공 상태 통합
+nongjeongwon,387,11,식용유,식용유,그대로
+nongjeongwon,387,12,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,387,13,소금,소금,그대로
+nongjeongwon,387,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,387,15,깨소금,깨소금,그대로
+nongjeongwon,387,16,참기름,참기름,그대로
+nongjeongwon,387,17,고춧가루,고춧가루,그대로
+nongjeongwon,387,18,식초,식초,그대로
+nongjeongwon,387,19,설탕,설탕,그대로
+nongjeongwon,388,1,조기,조기,그대로
+nongjeongwon,388,2,무,무,그대로
+nongjeongwon,388,3,감자,감자,그대로
+nongjeongwon,388,4,양파,양파,그대로
+nongjeongwon,388,5,물,물,그대로
+nongjeongwon,388,6,청고추,청고추,그대로
+nongjeongwon,388,7,대파,대파,그대로
+nongjeongwon,388,8,마늘,마늘,그대로
+nongjeongwon,388,9,고추장,고추장,그대로
+nongjeongwon,388,10,고춧가루,고춧가루,그대로
+nongjeongwon,388,11,참기름,참기름,그대로
+nongjeongwon,388,12,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,388,13,소금,소금,그대로
+nongjeongwon,388,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,388,15,홍고추,홍고추,그대로
+nongjeongwon,389,1,참치,참치,그대로
+nongjeongwon,389,2,양파,양파,그대로
+nongjeongwon,389,3,당근,당근,그대로
+nongjeongwon,389,4,오이,오이,그대로
+nongjeongwon,389,5,양상추,양상추,그대로
+nongjeongwon,389,6,마요네즈,마요네즈,그대로
+nongjeongwon,389,7,설탕,설탕,그대로
+nongjeongwon,389,8,소금,소금,그대로
+nongjeongwon,389,9,머스터드,머스터드,그대로
+nongjeongwon,389,10,토마토케첩,토마토케첩,그대로
+nongjeongwon,389,11,적채,적채,그대로
+nongjeongwon,390,1,돼지고기,돼지고기,그대로
+nongjeongwon,390,2,표고버섯,표고버섯,그대로
+nongjeongwon,390,3,피망,피망,그대로
+nongjeongwon,390,4,대파,대파,그대로
+nongjeongwon,390,5,마늘,마늘,그대로
+nongjeongwon,390,6,생강즙,생강,짜낸 즙은 원물
+nongjeongwon,390,7,고추기름,고추기름,그대로
+nongjeongwon,390,8,간장,간장,그대로
+nongjeongwon,390,9,청주,청주,그대로
+nongjeongwon,390,10,육수,육수,그대로
+nongjeongwon,390,11,녹말,녹말,그대로
+nongjeongwon,390,12,참기름,참기름,그대로
+nongjeongwon,390,13,홍고추,홍고추,그대로
+nongjeongwon,390,14,계란,계란,그대로
+nongjeongwon,390,15,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,390,16,소금,소금,그대로
+nongjeongwon,391,1,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,391,2,홍합,홍합,그대로
+nongjeongwon,391,3,멸치,멸치,그대로
+nongjeongwon,391,4,물,물,그대로
+nongjeongwon,391,5,대파,대파,그대로
+nongjeongwon,391,6,마늘,마늘,그대로
+nongjeongwon,391,7,고춧가루,고춧가루,그대로
+nongjeongwon,391,8,소금,소금,그대로
+nongjeongwon,391,9,홍고추,홍고추,그대로
+nongjeongwon,392,1,가지,가지,그대로
+nongjeongwon,392,2,돼지고기,돼지고기,그대로
+nongjeongwon,392,3,소금,소금,그대로
+nongjeongwon,392,4,간장,간장,그대로
+nongjeongwon,392,5,설탕,설탕,그대로
+nongjeongwon,392,6,맛술,맛술,그대로
+nongjeongwon,392,7,깨소금,깨소금,그대로
+nongjeongwon,392,8,머스터드,머스터드,그대로
+nongjeongwon,392,9,마요네즈,마요네즈,그대로
+nongjeongwon,392,10,설탕,설탕,그대로
+nongjeongwon,392,11,밀가루,밀가루,그대로
+nongjeongwon,392,12,계란,계란,그대로
+nongjeongwon,392,13,빵가루,빵가루,그대로
+nongjeongwon,392,14,후춧가루,후추,가공 상태 통합
+nongjeongwon,392,15,참기름,참기름,그대로
+nongjeongwon,393,1,골뱅이,골뱅이,어휘없음 — 352종에 골뱅이 없음
+nongjeongwon,393,2,표고버섯,표고버섯,그대로
+nongjeongwon,393,3,양파,양파,그대로
+nongjeongwon,393,4,청피망,피망,색상 표기 통합
+nongjeongwon,393,5,홍피망,피망,색상 표기 통합
+nongjeongwon,393,6,마늘,마늘,그대로
+nongjeongwon,393,7,대파,대파,그대로
+nongjeongwon,393,8,진간장,진간장,그대로
+nongjeongwon,393,9,깨소금,깨소금,그대로
+nongjeongwon,393,10,참기름,참기름,그대로
+nongjeongwon,393,11,설탕,설탕,그대로
+nongjeongwon,393,12,녹말,녹말,그대로
+nongjeongwon,394,1,닭,닭고기,표기 통일
+nongjeongwon,394,2,해파리,해파리,어휘없음 — 352종에 해파리 없음
+nongjeongwon,394,3,오이,오이,그대로
+nongjeongwon,394,4,홍고추,홍고추,그대로
+nongjeongwon,394,5,레몬,레몬,그대로
+nongjeongwon,394,6,식초,식초,그대로
+nongjeongwon,394,7,참기름,참기름,그대로
+nongjeongwon,394,8,간장,간장,그대로
+nongjeongwon,394,9,설탕,설탕,그대로
+nongjeongwon,394,10,꿀,꿀,그대로
+nongjeongwon,394,11,소금,소금,그대로
+nongjeongwon,394,12,청고추,청고추,그대로
+nongjeongwon,395,1,어묵,어묵,그대로
+nongjeongwon,395,2,양파,양파,그대로
+nongjeongwon,395,3,피망,피망,그대로
+nongjeongwon,395,4,마늘,마늘,그대로
+nongjeongwon,395,5,고춧가루,고춧가루,그대로
+nongjeongwon,395,6,간장,간장,그대로
+nongjeongwon,395,7,설탕,설탕,그대로
+nongjeongwon,395,8,참기름,참기름,그대로
+nongjeongwon,395,9,깨소금,깨소금,그대로
+nongjeongwon,395,10,식용유,식용유,그대로
+nongjeongwon,395,11,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,396,1,오징어,오징어,그대로
+nongjeongwon,396,2,두부,두부,그대로
+nongjeongwon,396,3,모시조개,모시조개,그대로
+nongjeongwon,396,4,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,396,5,대파,대파,그대로
+nongjeongwon,396,6,홍고추,홍고추,그대로
+nongjeongwon,396,7,쑥갓,쑥갓,그대로
+nongjeongwon,396,8,다진마늘,마늘,가공 상태 통합
+nongjeongwon,396,9,생강,생강,그대로
+nongjeongwon,396,10,간장,간장,그대로
+nongjeongwon,396,11,고춧가루,고춧가루,그대로
+nongjeongwon,396,12,소금,소금,그대로
+nongjeongwon,396,13,후춧가루,후추,가공 상태 통합
+nongjeongwon,396,14,청고추,청고추,그대로
+nongjeongwon,396,15,양파,양파,그대로
+nongjeongwon,396,16,호박,호박,그대로
+nongjeongwon,396,17,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,396,18,맛술,맛술,그대로
+nongjeongwon,397,1,가래떡,가래떡,그대로
+nongjeongwon,397,2,쇠고기,소고기,표기 통일
+nongjeongwon,397,3,마늘,마늘,그대로
+nongjeongwon,397,4,브로콜리,브로콜리,그대로
+nongjeongwon,397,5,고추장,고추장,그대로
+nongjeongwon,397,6,고춧가루,고춧가루,그대로
+nongjeongwon,397,7,설탕,설탕,그대로
+nongjeongwon,397,8,간장,간장,그대로
+nongjeongwon,397,9,후춧가루,후추,가공 상태 통합
+nongjeongwon,397,10,깨소금,깨소금,그대로
+nongjeongwon,397,11,물,물,그대로
+nongjeongwon,397,12,참기름,참기름,그대로
+nongjeongwon,398,1,바게트,바게트,그대로
+nongjeongwon,398,2,훈제연어,훈제연어,그대로
+nongjeongwon,398,3,상추,상추,그대로
+nongjeongwon,398,4,머스터드,머스터드,그대로
+nongjeongwon,398,5,땅콩버터,땅콩버터,그대로
+nongjeongwon,398,6,체리알,체리,형태 표기 제거
+nongjeongwon,398,7,사워크림,사워크림,그대로
+nongjeongwon,399,1,김치,배추김치,수식 없는 김치는 배추김치
+nongjeongwon,399,2,참치,참치,그대로
+nongjeongwon,399,3,양파,양파,그대로
+nongjeongwon,399,4,대파,대파,그대로
+nongjeongwon,399,5,홍고추,홍고추,그대로
+nongjeongwon,399,6,팽이버섯,팽이버섯,그대로
+nongjeongwon,399,7,두부,두부,그대로
+nongjeongwon,399,8,고춧가루,고춧가루,그대로
+nongjeongwon,399,9,소금,소금,그대로
+nongjeongwon,399,10,참기름,참기름,그대로
+nongjeongwon,399,11,청고추,청고추,그대로
+nongjeongwon,400,1,오징어,오징어,그대로
+nongjeongwon,400,2,양파,양파,그대로
+nongjeongwon,400,3,홍고추,홍고추,그대로
+nongjeongwon,400,4,양배추,양배추,그대로
+nongjeongwon,400,5,당근,당근,그대로
+nongjeongwon,400,6,고추장,고추장,그대로
+nongjeongwon,400,7,고춧가루,고춧가루,그대로
+nongjeongwon,400,8,간장,간장,그대로
+nongjeongwon,400,9,설탕,설탕,그대로
+nongjeongwon,400,10,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,400,11,다진마늘,마늘,가공 상태 통합
+nongjeongwon,400,12,깨소금,깨소금,그대로
+nongjeongwon,400,13,후춧가루,후추,가공 상태 통합
+nongjeongwon,400,14,참기름,참기름,그대로
+nongjeongwon,401,1,부추,부추,그대로
+nongjeongwon,401,2,돼지고기,돼지고기,그대로
+nongjeongwon,401,3,양파,양파,그대로
+nongjeongwon,401,4,청고추,청고추,그대로
+nongjeongwon,401,5,다진마늘,마늘,가공 상태 통합
+nongjeongwon,401,6,다진생강,생강,가공 상태 통합
+nongjeongwon,401,7,청정원굴소스,굴소스,상품명 — 굴소스
+nongjeongwon,401,8,소금,소금,그대로
+nongjeongwon,401,9,참기름,참기름,그대로
+nongjeongwon,401,10,깨소금,깨소금,그대로
+nongjeongwon,401,11,식용유,식용유,그대로
+nongjeongwon,401,12,홍고추,홍고추,그대로
+nongjeongwon,402,1,라면,라면,그대로
+nongjeongwon,402,2,쇠고기,소고기,표기 통일
+nongjeongwon,402,3,계란,계란,그대로
+nongjeongwon,402,4,꽃상추,상추,품종 표기 통합
+nongjeongwon,402,5,깻잎,깻잎,그대로
+nongjeongwon,402,6,치커리,치커리,그대로
+nongjeongwon,402,7,양파,양파,그대로
+nongjeongwon,402,8,고추장,고추장,그대로
+nongjeongwon,402,9,간장,간장,그대로
+nongjeongwon,402,10,식초,식초,그대로
+nongjeongwon,402,11,설탕,설탕,그대로
+nongjeongwon,402,12,깨소금,깨소금,그대로
+nongjeongwon,402,13,후춧가루,후추,가공 상태 통합
+nongjeongwon,402,14,마늘,마늘,그대로
+nongjeongwon,402,15,겨자,겨자,그대로
+nongjeongwon,403,1,밀가루,밀가루,그대로
+nongjeongwon,403,2,쇠고기,소고기,표기 통일
+nongjeongwon,403,3,간장,간장,그대로
+nongjeongwon,403,4,설탕,설탕,그대로
+nongjeongwon,403,5,참기름,참기름,그대로
+nongjeongwon,403,6,깨소금,깨소금,그대로
+nongjeongwon,403,7,후춧가루,후추,가공 상태 통합
+nongjeongwon,403,8,양파,양파,그대로
+nongjeongwon,403,9,튀김기름,식용유,튀김용 기름 — 식용유
+nongjeongwon,403,10,계란,계란,그대로
+nongjeongwon,403,11,치자,치자,그대로
+nongjeongwon,403,12,마늘,마늘,그대로
+nongjeongwon,403,13,피망,피망,그대로
+nongjeongwon,403,14,케첩,토마토케첩,표기 통일
+nongjeongwon,404,1,새우,새우,그대로
+nongjeongwon,404,2,맛조개,조개,조개 품종 — 상위 조개로 통합
+nongjeongwon,404,3,낙지,낙지,그대로
+nongjeongwon,404,4,당근,당근,그대로
+nongjeongwon,404,5,팽이버섯,팽이버섯,그대로
+nongjeongwon,404,6,표고버섯,표고버섯,그대로
+nongjeongwon,404,7,미나리,미나리,그대로
+nongjeongwon,404,8,곤약,곤약,그대로
+nongjeongwon,404,9,다시마,다시마,그대로
+nongjeongwon,404,10,가쓰오브시,가다랑어포,표기 통일
+nongjeongwon,404,11,소금,소금,그대로
+nongjeongwon,404,12,청주,청주,그대로
+nongjeongwon,404,13,폰즈소스,폰즈소스,어휘없음 — 조합 조미 소스
+nongjeongwon,404,14,와사비소스,고추냉이,제품 표기 통합
+nongjeongwon,404,15,깨소스,깨소스,어휘없음 — 조합 조미 소스
+nongjeongwon,405,1,꽃게,꽃게,그대로
+nongjeongwon,405,2,간장,간장,그대로
+nongjeongwon,405,3,물,물,그대로
+nongjeongwon,405,4,생강,생강,그대로
+nongjeongwon,405,5,마늘,마늘,그대로
+nongjeongwon,405,6,청고추,청고추,그대로
+nongjeongwon,405,7,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,405,8,채썬마늘,마늘,가공 상태 통합
+nongjeongwon,405,9,채썬생강,생강,가공 상태 통합
+nongjeongwon,405,10,고춧가루,고춧가루,그대로
+nongjeongwon,405,11,참기름,참기름,그대로
+nongjeongwon,405,12,깨소금,깨소금,그대로
+nongjeongwon,405,13,설탕,설탕,그대로
+nongjeongwon,406,1,녹두,녹두,그대로
+nongjeongwon,406,2,쌀,쌀,그대로
+nongjeongwon,406,3,물,물,그대로
+nongjeongwon,406,4,소금,소금,그대로
+nongjeongwon,406,5,설탕,설탕,그대로
+nongjeongwon,407,1,돼지고기,돼지고기,그대로
+nongjeongwon,407,2,고추장,고추장,그대로
+nongjeongwon,407,3,고춧가루,고춧가루,그대로
+nongjeongwon,407,4,간장,간장,그대로
+nongjeongwon,407,5,미림,미림,그대로
+nongjeongwon,407,6,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,407,7,다진마늘,마늘,가공 상태 통합
+nongjeongwon,407,8,설탕,설탕,그대로
+nongjeongwon,407,9,물엿,물엿,그대로
+nongjeongwon,407,10,깨소금,깨소금,그대로
+nongjeongwon,407,11,참기름,참기름,그대로
+nongjeongwon,407,12,후춧가루,후추,가공 상태 통합
+nongjeongwon,408,1,단호박,단호박,그대로
+nongjeongwon,408,2,황설탕,설탕,정제도 차이 통합
+nongjeongwon,408,3,버터,버터,그대로
+nongjeongwon,408,4,소금,소금,그대로
+nongjeongwon,408,5,후춧가루,후추,가공 상태 통합
+nongjeongwon,409,1,닭,닭고기,표기 통일
+nongjeongwon,409,2,간장,간장,그대로
+nongjeongwon,409,3,계란,계란,그대로
+nongjeongwon,409,4,녹말,녹말,그대로
+nongjeongwon,409,5,튀김가루,튀김가루,그대로
+nongjeongwon,409,6,마늘,마늘,그대로
+nongjeongwon,409,7,대파,대파,그대로
+nongjeongwon,409,8,마른고추,건고추,건조 구분
+nongjeongwon,409,9,표고버섯,표고버섯,그대로
+nongjeongwon,409,10,피망,피망,그대로
+nongjeongwon,409,11,고춧기름,고추기름,표기 통일
+nongjeongwon,409,12,청주,청주,그대로
+nongjeongwon,409,13,육수,육수,그대로
+nongjeongwon,409,14,참기름,참기름,그대로
+nongjeongwon,410,1,양파,양파,그대로
+nongjeongwon,410,2,설탕,설탕,그대로
+nongjeongwon,410,3,계핏가루,계피가루,표기 통일
+nongjeongwon,410,4,물,물,그대로
+nongjeongwon,410,5,만두피,만두피,그대로
+nongjeongwon,410,6,식용유,식용유,그대로
+nongjeongwon,411,1,닭고기,닭고기,그대로
+nongjeongwon,411,2,마늘,마늘,그대로
+nongjeongwon,411,3,대파,대파,그대로
+nongjeongwon,411,4,생강,생강,그대로
+nongjeongwon,411,5,미역,미역,그대로
+nongjeongwon,411,6,밀가루,밀가루,그대로
+nongjeongwon,411,7,소금,소금,그대로
+nongjeongwon,411,8,후춧가루,후추,가공 상태 통합
+nongjeongwon,411,9,국간장,국간장,그대로
+nongjeongwon,411,10,설탕,설탕,그대로
+nongjeongwon,411,11,다진파,대파,가공 상태 통합·수식 없는 파는 대파
+nongjeongwon,411,12,다진마늘,마늘,가공 상태 통합
+nongjeongwon,411,13,깨소금,깨소금,그대로
+nongjeongwon,412,1,생대구,대구살,어휘의 대구 항목은 대구살
+nongjeongwon,412,2,다시마,다시마,그대로
+nongjeongwon,412,3,가쓰오브시,가다랑어포,표기 통일
+nongjeongwon,412,4,미나리,미나리,그대로
+nongjeongwon,412,5,두부,두부,그대로
+nongjeongwon,412,6,홍고추,홍고추,그대로
+nongjeongwon,412,7,마늘,마늘,그대로
+nongjeongwon,412,8,소금,소금,그대로
+nongjeongwon,412,9,팽이버섯,팽이버섯,그대로
+nongjeongwon,412,10,청고추,청고추,그대로
