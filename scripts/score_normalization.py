@@ -31,7 +31,21 @@ INGREDIENTS = ROOT / "data" / "processed" / "recipe_ingredients.json"
 
 # 코퍼스만으로는 도달할 수 없다고 기록된 항목 (D-025·D-026).
 # 모델이 맞힐 수 없으므로 본 집계에서 분리하고 따로 보고한다.
-CONTEXT_DEPENDENT = {"치즈", "슬라이스치즈", "저염치즈", "발사믹소스", "파스타"}
+#
+# 이 상수는 README §5 가 정한 분리 규칙("메모에 미검증·추정·코퍼스 외 지식 기반이
+# 적힌 행")을 손으로 옮겨 적은 것이라 정답지가 늘면 조용히 어긋난다. 실제로
+# `와인` 행이 추가된 뒤 반영되지 않아 4행이 잘못 채점됐다 (D-041). 목록을 메모에서
+# 자동 유도하면 자유 텍스트에 채점 범위가 끌려가므로, 명시 목록은 유지하되
+# **어긋나면 채점하지 않고 멈추는 검사**를 아래 assert_exclusion_synced 로 둔다.
+CONTEXT_DEPENDENT = {"치즈", "슬라이스치즈", "저염치즈", "발사믹소스", "파스타", "와인"}
+MEMO_FLAGS = ("미검증", "추정", "코퍼스 외", "미검토")
+# 메모에 신호어가 있으나 **채점 대상으로 유지하기로 판단한** 행. 신호어가 라벨이
+# 아니라 다른 주장에 붙은 경우다. 판단을 여기 적어두면 검사가 계속 유효하다.
+EXCLUSION_REVIEWED = {
+    # '쌀→밥 단방향 대체, 역방향 미검증' — 미검증은 대체 방향에 붙은 말이고
+    # 라벨 자체는 README §2 가 명시한다(밥·찬밥·현미밥 → 쌀, D-021).
+    "밥",
+}
 
 for _s in (sys.stdout, sys.stderr):
     try:
@@ -42,8 +56,20 @@ for _s in (sys.stdout, sys.stderr):
 
 def load_answers():
     rows = list(csv.DictReader(ANSWERS.open(encoding="utf-8-sig")))
+    assert_exclusion_synced({r["재료명"]: r.get("메모") or "" for r in rows})
     return ({r["재료명"]: r["표준명"].strip() for r in rows},
             {r["재료명"]: r["판정"].strip() for r in rows})
+
+
+def assert_exclusion_synced(memo_by_name):
+    """README §5 분리 규칙과 CONTEXT_DEPENDENT 가 어긋나면 멈춘다."""
+    flagged = {n for n, m in memo_by_name.items() if any(f in m for f in MEMO_FLAGS)}
+    missing = flagged - CONTEXT_DEPENDENT - EXCLUSION_REVIEWED
+    if missing:
+        raise SystemExit(
+            "[오류] 정답지 메모가 분리 대상으로 표시한 행이 CONTEXT_DEPENDENT 에 없습니다: "
+            + ", ".join(sorted(missing))
+            + " — README §5 를 보고 상수를 갱신한 뒤 다시 채점하십시오.")
 
 
 def load_row_answers():
