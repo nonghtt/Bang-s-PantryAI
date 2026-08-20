@@ -6,6 +6,12 @@
 채점은 정규화와 분리된 시점에 수행한다.
 
     python scripts/score_normalization.py data/labels/stage2_pilot_output.csv
+    python scripts/score_normalization.py data/labels/stage2_full_output.csv \
+           --spec data/labels/batches.txt
+
+행 수 검사에 쓰는 대상 명세는 `--spec` 으로 지정한다 (기본값: 파일럿 명세).
+명세 파일은 탭 구분이며 마지막 두 칸을 source·source_id 로 읽는다 —
+배치 명세(`batch_id<TAB>source<TAB>source_id`)도 그대로 받는다.
 
 산출: 표준 출력에 요약, `<입력파일>.score.md` 에 상세 보고서.
 표준 라이브러리만 사용한다.
@@ -62,7 +68,16 @@ def main():
     if len(sys.argv) < 2:
         print(__doc__, file=sys.stderr)
         return 2
-    out_path = Path(sys.argv[1])
+    argv = sys.argv[1:]
+    spec_path = PILOT
+    if "--spec" in argv:
+        i = argv.index("--spec")
+        spec_path = Path(argv[i + 1])
+        del argv[i:i + 2]
+    if not argv:
+        print(__doc__, file=sys.stderr)
+        return 2
+    out_path = Path(argv[0])
     if not out_path.exists():
         print("없음: %s" % out_path, file=sys.stderr)
         return 1
@@ -88,10 +103,10 @@ def main():
     ghost = [r for r in rows
              if r["name_raw"] not in corpus.get((r.get("source", ""), str(r.get("source_id", ""))), set())]
 
-    # 기대 행 수 — 파일럿 명세에서 계산한다. 행이 빠지거나 늘면 채점 자체가 성립하지 않는다.
+    # 기대 행 수 — 대상 명세(--spec)에서 계산한다. 행이 빠지거나 늘면 채점 자체가 성립하지 않는다.
     expected = None
-    if PILOT.exists():
-        picks = [tuple(l.split("\t")) for l in PILOT.read_text(encoding="utf-8").splitlines()
+    if spec_path.exists():
+        picks = [tuple(l.split("\t")[-2:]) for l in spec_path.read_text(encoding="utf-8").splitlines()
                  if l.strip() and not l.startswith("#")]
         expected = sum(rowcount[k] for k in picks)
         if expected != len(rows):
