@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ANSWERS = ROOT / "data" / "labels" / "ingredient_standard_answers.csv"
 VOCAB = ROOT / "data" / "labels" / "standard_names.txt"
 PILOT = ROOT / "data" / "labels" / "pilot_recipes.txt"
+ROW_ANSWERS = ROOT / "data" / "labels" / "context_dependent_rows.csv"
 INGREDIENTS = ROOT / "data" / "processed" / "recipe_ingredients.json"
 
 # 코퍼스만으로는 도달할 수 없다고 기록된 항목 (D-025·D-026).
@@ -39,6 +40,24 @@ def load_answers():
             {r["재료명"]: r["판정"].strip() for r in rows})
 
 
+def load_row_answers():
+    """행 단위 정답. 이름은 같지만 레시피 맥락이 표준명을 바꾸는 경우.
+
+    `표고버섯`이라고만 적혔어도 조리과정이 "말린 표고버섯"·"물에 불려"라고 하면
+    그 행의 정답은 `건표고버섯`이다. 이름 단위 정답지로는 표현할 수 없다 (D-029).
+    """
+    if not ROW_ANSWERS.exists():
+        return {}
+    out = {}
+    for r in csv.DictReader(ROW_ANSWERS.open(encoding="utf-8-sig")):
+        if not r.get("확정", "").strip():
+            continue
+        for seq in str(r["seq"]).split(";"):
+            if seq.strip():
+                out[(r["source"], str(r["source_id"]), seq.strip())] = r["확정"].strip()
+    return out
+
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__, file=sys.stderr)
@@ -49,6 +68,7 @@ def main():
         return 1
 
     answer, verdict = load_answers()
+    row_answer = load_row_answers()
     vocab = {l.strip() for l in VOCAB.open(encoding="utf-8")
              if l.strip() and not l.startswith("#")}
     rows = list(csv.DictReader(out_path.open(encoding="utf-8-sig")))
@@ -81,8 +101,15 @@ def main():
 
     scored, hits = [], []
     skipped_ctx, unknown = [], []
+    row_hit = 0
     for r in rows:
         n, got = r["name_raw"], r["표준명"].strip()
+        key = (r.get("source", ""), str(r.get("source_id", "")), str(r.get("seq", "")))
+        if key in row_answer:          # 행 단위 정답이 이름 단위보다 우선한다
+            row_hit += 1
+            scored.append((n, got, row_answer[key], "맥락"))
+            hits.append(got == row_answer[key])
+            continue
         if n in CONTEXT_DEPENDENT:
             skipped_ctx.append((n, got, answer.get(n, "-")))
             continue
@@ -106,8 +133,8 @@ def main():
         by_verdict[v][1] += 1
 
     print("입력 %s — %d행" % (out_path.name, len(rows)))
-    print("채점 대상 %d행 (정답지 밖 %d행 · 맥락 의존 %d행 제외)"
-          % (total, len(unknown), len(skipped_ctx)))
+    print("채점 대상 %d행 (정답지 밖 %d행 · 맥락 의존 %d행 제외 · 행 단위 정답 적용 %d행)"
+          % (total, len(unknown), len(skipped_ctx), row_hit))
     if total:
         print("\n■ 일치율  %d/%d = %.1f%%" % (ok, total, 100 * ok / total))
         print("\n판정 유형별")
