@@ -98,7 +98,7 @@ def main():
     # 정답지 밖 재료명에 지어낸 표준명을 붙인 것도 결함이다.
     oov = [(r["name_raw"], r["표준명"].strip()) for r in rows
            if r["표준명"].strip() and r["표준명"].strip() not in vocab
-           and (r.get("근거") or "").strip() != "어휘없음"]
+           and not (r.get("근거") or "").strip().startswith("어휘없음")]
 
     by_verdict = defaultdict(lambda: [0, 0])
     for (_n, got, exp, v), good in zip(scored, hits):
