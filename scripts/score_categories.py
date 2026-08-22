@@ -23,6 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ANSWERS = ROOT / "data" / "labels" / "category_answers.csv"
+SNAPSHOT = ROOT / "data" / "labels" / "spec-snapshot"
 RULES = ROOT / "data" / "labels" / "category_README.md"
 PROMPT = (ROOT / "_bmad-output" / "planning-artifacts" / "prds"
           / "prd-PantryAI-2026-08-18" / "category-classify-prompt.md")
@@ -36,13 +37,27 @@ for _s in (sys.stdout, sys.stderr):
 
 
 def spec_named():
-    """명세(규칙 문서 + 실행 지시서)에 요리명이 그대로 등장하는 집합.
+    """명세에 요리명이 그대로 등장하는 집합.
 
-    하드코딩하지 않고 채점 시점에 센다 — 문서를 고치면 분리 대상도 따라 바뀐다.
+    하드코딩하지 않고 채점 시점에 센다 — 명세를 고치면 분리 대상도 따라 바뀐다.
     (`category_README.md` §4-4. D-041 에서 상수가 규칙과 어긋난 사고를 되풀이하지 않는다)
+
+    **단 읽는 것은 분류 실행 시점의 스냅샷이다** (`data/labels/spec-snapshot/`).
+    현재 문서를 읽으면 채점 결과를 문서에 기록하는 것만으로 그 행이 채점에서
+    빠져 점수가 오른다 — 자동화가 정직성을 깨는 자리다. (D-047)
     """
+    # 실행 세션이 본 명세는 그 시점의 것이지 지금 것이 아니다.
+    # 현재 문서를 읽으면 **채점 이후에 추가된 내용까지 분리 대상이 되어**
+    # 불일치가 소급해서 숨는다. 실제로 그 사고가 났다 — `spec-snapshot/README.md` 참조.
+    snap = sorted(SNAPSHOT.glob("category*.md")) if SNAPSHOT.exists() else []
+    if snap:
+        sources = snap
+    else:
+        sources = [RULES, PROMPT]
+        print("[경고] 명세 스냅샷이 없어 현재 문서를 읽습니다 — 채점 이후 추가된 내용이"
+              " 분리 대상에 섞일 수 있습니다.", file=sys.stderr)
     names = set()
-    for p in (RULES, PROMPT):
+    for p in sources:
         if not p.exists():
             continue
         text = p.read_text(encoding="utf-8")
